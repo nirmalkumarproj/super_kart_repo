@@ -1,0 +1,1754 @@
+Product_Weight,Product_Allocated_Area,Product_MRP,Store_Establishment_Year,Product_Id,Product_Sugar_Content,Product_Type,Store_Id,Store_Size,Store_Location_City_Type,Store_Type
+12.53,0.066,145.62,2009,FD1781,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.29,0.086,135.99,2009,FD3171,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+9.99,0.09,125.79,1987,FD1479,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+10.72,0.049,92.94,1998,NC4402,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+15.6,0.121,176.07,1987,DR433,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+11.87,0.1,130.28,2009,FD7674,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.13,0.052,135.49,2009,FD1517,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.02,0.09,118.48,2009,DR1382,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.42,0.018,147.95,2009,NC4185,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.55,0.043,88.28,1998,DR389,Low Sugar,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+14.44,0.097,218.42,1999,NC8059,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+10.95,0.073,145.75,2009,FD4954,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.62,0.107,132.73,2009,FD3225,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.45,0.035,129.31,1987,NC208,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+12.76,0.16,160.7,2009,FD1674,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.94,0.027,120.3,2009,DR6329,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+8.97,0.02,118.77,1998,FD8596,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+11.56,0.086,141.52,2009,FD6731,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+17.13,0.147,191.14,1999,FD2264,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+13.2,0.133,119.63,2009,DR2441,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.44,0.019,141.72,2009,FD3304,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.17,0.039,121.43,2009,DR7431,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+8.49,0.199,138.99,1987,FD2903,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+12.92,0.013,117.1,2009,FD1646,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+19.22,0.033,212.36,1999,FD6647,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+12.67,0.042,159.77,2009,FD4591,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+15.65,0.093,184.74,1987,FD2573,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+9.72,0.162,113.3,1998,FD7280,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+14.51,0.067,182.65,1987,FD2537,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+12.8,0.016,194.7,1999,DR6236,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+16.8,0.017,160.69,1987,FD2515,Low Sugar,Seafood,OUT001,High,Tier 2,Supermarket Type1
+15.05,0.1,229.89,1999,FD3047,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+11.81,0.07,128.82,2009,FD4228,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.22,0.098,213.71,1987,FD7115,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
+13.06,0.098,135.29,2009,FD7030,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.17,0.031,156.69,2009,NC453,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+10.2,0.016,116.99,1998,NC4694,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+15.45,0.012,191.07,1999,FD1969,Regular,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+10.44,0.1,56.01,1998,NC8741,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+13.73,0.07,142.45,2009,FD1349,Regular,Breakfast,OUT004,Medium,Tier 2,Supermarket Type2
+15.47,0.029,175.2,1987,DR3067,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+12.16,0.03,158.08,2009,DR6416,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.02,0.161,106.83,1987,FD3484,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+12.81,0.031,168.24,2009,FD1526,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.55,0.029,147.92,2009,FD1719,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.15,0.047,140.69,2009,FD1827,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.8,0.05,177.27,1987,FD4246,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+11.93,0.076,143.45,2009,FD8058,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.2,0.014,181.94,2009,DR8292,Regular,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+16.3,0.071,154.75,1999,FD7287,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.23,0.058,164.15,2009,FD8567,Low Sugar,Seafood,OUT004,Medium,Tier 2,Supermarket Type2
+10.41,0.021,151.97,2009,FD8000,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+8.05,0.04,67.14,1998,NC993,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+10.46,0.047,97.59,1998,NC5781,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+14.57,0.06,161.93,1987,FD2864,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+10.57,0.042,125.25,2009,FD2275,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+9.66,0.062,178.03,2009,NC4161,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.53,0.023,196.65,1987,NC6262,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+7.59,0.191,176.98,2009,FD2211,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+19.12,0.056,193.68,1999,FD3905,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+17.5,0.178,192.22,1999,FD5991,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+12.47,0.064,156.27,2009,FD6341,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+15.39,0.053,137.79,2009,FD4086,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.17,0.064,142.1,2009,FD1638,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.94,0.019,136.14,2009,FD3918,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+9.68,0.16,137.65,2009,FD1576,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+15.82,0.031,162.76,1999,FD5639,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+11.75,0.031,61.57,1998,FD6357,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+13.11,0.106,160.46,2009,FD1642,Low Sugar,Breakfast,OUT004,Medium,Tier 2,Supermarket Type2
+13.08,0.019,97.93,2009,NC1520,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.39,0.04,196.18,1987,FD5375,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+14.26,0.026,149.2,2009,FD1632,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.8,0.055,130.36,2009,FD2382,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.69,0.076,155.65,2009,FD4309,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+11.44,0.057,181.96,2009,NC6229,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.83,0.081,114.04,2009,NC6676,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.42,0.026,107.01,2009,NC3555,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.56,0.098,122.14,2009,NC4958,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.05,0.071,133.57,2009,FD6612,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.96,0.076,149.13,2009,FD5157,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.66,0.14,153.72,1987,FD1578,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+13.51,0.212,143.48,2009,FD2465,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.77,0.046,165.71,2009,FD8414,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.69,0.076,132.88,2009,FD6280,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.73,0.028,166.77,2009,FD3234,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.25,0.031,102.71,1987,FD7178,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+13.47,0.096,145.93,2009,FD5603,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.5,0.081,135.26,2009,FD5160,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.97,0.036,157.12,2009,FD1196,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.46,0.077,107.28,1998,FD4737,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+13.91,0.098,186.73,1987,FD6894,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+11.3,0.022,133.51,2009,FD5302,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.11,0.027,106.65,2009,DR5958,Regular,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.25,0.009,194.45,1987,NC7628,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+14.28,0.121,152.84,2009,FD5833,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.43,0.124,128.61,1998,FD632,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+10.84,0.103,162.99,2009,NC7343,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.04,0.167,145.76,2009,NC6992,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+10.77,0.016,136.99,2009,FD6751,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+9.16,0.047,123.95,1998,FD1560,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+11.31,0.049,168.4,2009,FD1231,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+15.76,0.128,177.51,1987,DR1005,Regular,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+11.52,0.019,101.37,1998,NC7433,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+5.91,0.159,90.33,1998,FD1733,Regular,Starchy Foods,OUT002,Small,Tier 3,Food Mart
+9.63,0.071,197.66,2009,FD1275,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+9.72,0.029,142.16,2009,FD5532,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+8.05,0.039,103.58,1998,FD6224,Regular,Baking Goods,OUT002,Small,Tier 3,Food Mart
+14.6,0.015,147.56,2009,FD3536,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+8.43,0.053,110.29,1998,FD841,Low Sugar,Breakfast,OUT002,Small,Tier 3,Food Mart
+11.65,0.017,181.67,2009,FD219,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+14.89,0.088,200.39,1999,FD6352,Low Sugar,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+9.62,0.103,134.38,2009,FD4457,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+13.88,0.077,163.08,1987,FD4242,reg,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+11.64,0.097,78.01,1998,FD6408,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+10.35,0.026,112.74,1998,FD6175,Regular,Dairy,OUT002,Small,Tier 3,Food Mart
+14.42,0.073,154.35,1987,FD7430,Low Sugar,Seafood,OUT001,High,Tier 2,Supermarket Type1
+12.89,0.024,129.58,2009,FD3233,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.54,0.055,147.53,2009,FD1804,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.94,0.06,171.91,1999,NC7570,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+10.57,0.042,102.9,1998,NC5938,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+13.79,0.025,116.44,2009,FD3931,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+13.91,0.076,157.43,2009,FD2782,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.24,0.059,115.23,1998,FD8435,Regular,Meat,OUT002,Small,Tier 3,Food Mart
+9.96,0.047,118.1,1998,FD1474,Regular,Canned,OUT002,Small,Tier 3,Food Mart
+11.42,0.036,131.28,2009,NC6490,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.77,0.091,147.67,2009,FD1854,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+14.66,0.023,171.91,1999,FD8003,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+13.61,0.255,184.29,1999,FD3696,Low Sugar,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+10.76,0.068,135.43,2009,FD5888,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.42,0.091,141.97,2009,FD354,Regular,Breakfast,OUT004,Medium,Tier 2,Supermarket Type2
+14.77,0.169,178.74,1987,NC3864,No Sugar,Others,OUT001,High,Tier 2,Supermarket Type1
+13.84,0.056,98.99,2009,FD4388,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+8.8,0.047,107.05,1998,NC1963,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+9.19,0.116,123.58,1998,FD8201,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+12.97,0.091,165.31,1999,NC36,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+13.81,0.058,160.24,2009,FD7095,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+16.46,0.071,104.02,2009,NC6327,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+7.12,0.227,94.79,1998,FD2368,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+12.84,0.17,126.01,2009,NC4104,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.04,0.044,143.05,2009,FD1982,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+13.46,0.138,143.31,2009,NC3463,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+9.84,0.093,146.17,2009,NC8609,No Sugar,Others,OUT004,Medium,Tier 2,Supermarket Type2
+11.95,0.112,146.29,2009,FD316,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.41,0.028,171.25,2009,FD5969,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+16.2,0.142,149.65,1999,FD7975,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+14.54,0.027,201.84,1999,FD404,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+10.67,0.078,109.32,1998,DR7667,Low Sugar,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+10.61,0.065,126.3,2009,NC2587,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.01,0.013,143.38,2009,NC2193,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.87,0.073,164.44,2009,NC4579,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.61,0.022,131.96,2009,FD4698,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+10.92,0.142,184.73,1999,NC9,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+11.44,0.029,149.79,2009,NC5700,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.85,0.047,138.58,2009,FD5225,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+11.07,0.075,144.46,2009,FD3449,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.67,0.039,167.34,2009,NC3316,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.92,0.039,113.89,1998,FD1174,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+8.69,0.053,127.49,1998,NC5345,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+11.15,0.096,156.0,2009,FD6212,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.43,0.133,137.6,2009,FD3528,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.6,0.073,146.25,2009,FD3065,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.07,0.063,150.55,2009,FD3921,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.89,0.055,80.76,1998,DR7992,reg,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+13.83,0.018,166.21,1987,FD2415,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+9.05,0.073,106.63,1998,FD6504,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+8.51,0.1,121.64,1998,NC7542,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+12.3,0.054,119.13,2009,NC8144,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+10.98,0.168,115.45,1987,FD8104,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+12.89,0.047,151.99,2009,DR8235,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+15.82,0.141,148.73,1999,FD2908,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+10.9,0.061,150.45,2009,FD770,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+15.26,0.035,162.84,1999,FD7330,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+13.84,0.055,122.2,2009,FD234,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.57,0.128,161.96,1999,FD1545,Low Sugar,Breads,OUT003,Medium,Tier 1,Departmental Store
+13.47,0.108,141.79,2009,NC7370,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.56,0.055,153.11,2009,FD4768,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+11.19,0.038,159.95,2009,NC7380,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.19,0.077,89.56,1998,NC3561,No Sugar,Others,OUT002,Small,Tier 3,Food Mart
+11.96,0.088,156.95,2009,FD3557,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.06,0.013,134.94,2009,FD1916,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.15,0.121,98.69,1998,FD2819,Low Sugar,Seafood,OUT002,Small,Tier 3,Food Mart
+11.22,0.071,159.34,2009,FD7629,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+7.79,0.035,118.85,1998,FD4816,Regular,Canned,OUT002,Small,Tier 3,Food Mart
+16.96,0.08,150.74,1987,FD6339,Regular,Dairy,OUT001,High,Tier 2,Supermarket Type1
+12.47,0.174,157.88,2009,FD4427,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+14.43,0.016,149.64,2009,FD4777,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.13,0.124,133.93,2009,FD5814,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.25,0.051,156.28,2009,FD2485,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.23,0.067,148.57,2009,FD1761,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.61,0.034,171.59,1987,FD7036,Regular,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+12.63,0.161,191.98,1999,FD2638,Low Sugar,Breakfast,OUT003,Medium,Tier 1,Departmental Store
+11.65,0.119,130.74,2009,FD8492,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+11.37,0.046,133.52,2009,DR1800,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.13,0.105,126.25,2009,FD1372,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.9,0.136,184.5,1987,FD7020,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+15.72,0.028,147.45,1987,NC6820,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+14.95,0.041,185.28,1987,FD2225,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+12.84,0.106,148.22,2009,FD387,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+16.01,0.053,219.19,1999,FD609,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+15.62,0.014,169.94,1987,FD3014,Low Sugar,Starchy Foods,OUT001,High,Tier 2,Supermarket Type1
+6.65,0.021,127.04,1998,FD1032,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+17.53,0.058,193.39,1999,FD1960,Regular,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+15.94,0.121,179.68,1987,NC2033,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+13.08,0.136,157.84,2009,DR312,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+13.24,0.168,133.2,2009,NC856,No Sugar,Others,OUT004,Medium,Tier 2,Supermarket Type2
+15.92,0.045,191.88,1999,FD32,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+13.83,0.016,157.59,2009,FD6100,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.99,0.026,126.49,2009,FD1222,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.03,0.032,153.34,2009,DR2547,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.14,0.22,139.43,2009,FD4299,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+14.79,0.113,181.26,1987,NC1610,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+13.05,0.015,145.06,2009,FD1447,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.79,0.079,156.49,2009,FD3283,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.71,0.013,186.96,1999,FD2854,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+13.42,0.038,145.67,2009,FD1407,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+17.72,0.086,192.25,1999,FD3957,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+10.04,0.063,147.01,2009,NC3830,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+10.74,0.12,139.39,2009,FD1597,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.28,0.121,159.61,1987,FD4059,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.43,0.174,162.44,2009,FD4022,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.47,0.104,104.69,1987,NC2171,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+11.03,0.185,183.66,2009,FD4956,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.41,0.078,150.61,2009,NC2530,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.66,0.12,106.36,1987,DR5365,Low Sugar,Hard Drinks,OUT001,High,Tier 2,Supermarket Type1
+13.06,0.127,119.84,2009,FD6759,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.48,0.099,159.91,2009,FD5103,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.24,0.071,116.91,2009,NC7971,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+6.96,0.153,59.22,1998,NC730,No Sugar,Others,OUT002,Small,Tier 3,Food Mart
+12.79,0.048,167.19,2009,FD3227,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+10.52,0.081,152.17,2009,NC7935,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.59,0.041,207.04,1987,NC6500,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+8.72,0.026,102.83,1998,FD4978,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+13.69,0.028,169.01,1987,FD668,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+11.43,0.138,143.95,2009,FD2121,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+14.52,0.163,120.86,2009,DR5140,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+13.81,0.044,208.17,1987,FD5000,Regular,Dairy,OUT001,High,Tier 2,Supermarket Type1
+12.3,0.081,144.8,2009,NC6543,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.51,0.041,139.17,2009,FD4167,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+9.91,0.059,165.33,1999,FD317,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.6,0.031,203.64,1987,FD2545,Regular,Dairy,OUT001,High,Tier 2,Supermarket Type1
+10.76,0.147,145.21,2009,FD5636,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.92,0.053,146.88,2009,FD948,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.95,0.013,111.91,1987,FD5029,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+11.99,0.013,138.93,2009,FD3007,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+11.9,0.016,137.91,2009,FD2621,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.67,0.118,179.54,2009,FD4186,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+9.45,0.033,118.24,1998,NC4019,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+16.77,0.02,171.19,1999,FD2843,Low Sugar,Meat,OUT003,Medium,Tier 1,Departmental Store
+11.91,0.14,110.62,2009,FD2987,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.37,0.026,175.97,2009,FD5988,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+16.2,0.059,108.73,2009,FD5614,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+10.48,0.023,108.81,1998,NC640,No Sugar,Others,OUT002,Small,Tier 3,Food Mart
+13.74,0.061,172.15,1999,NC6260,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+13.57,0.017,164.9,1987,DR1888,Regular,Hard Drinks,OUT001,High,Tier 2,Supermarket Type1
+9.14,0.082,131.77,1987,NC6238,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+11.41,0.058,136.52,2009,FD897,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.46,0.104,112.16,1998,FD4031,Low Sugar,Breads,OUT002,Small,Tier 3,Food Mart
+9.21,0.017,127.47,1998,FD3638,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+8.52,0.07,142.95,1987,FD2224,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+10.33,0.03,177.97,2009,FD1378,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+7.14,0.034,82.6,1998,NC1944,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+14.61,0.111,152.39,1987,FD8471,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+14.38,0.042,181.63,1987,FD1530,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.11,0.019,112.91,1987,FD7968,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+11.66,0.031,125.99,2009,FD6819,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.12,0.021,120.62,2009,NC2914,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.28,0.039,126.06,2009,FD3249,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.46,0.115,153.71,2009,FD5220,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.78,0.121,120.0,2009,DR2814,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+10.03,0.038,111.68,1998,FD1619,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+7.68,0.05,67.01,1998,FD2160,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+13.99,0.076,71.99,1998,NC6961,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+11.07,0.034,156.4,2009,FD5535,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.74,0.033,168.17,2009,FD6056,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+20.65,0.106,223.98,1999,FD8203,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.13,0.047,135.78,2009,FD4699,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.31,0.01,164.34,2009,FD3255,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.08,0.015,143.07,2009,FD1968,reg,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.99,0.046,121.52,2009,FD7676,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+13.22,0.027,150.63,2009,FD3024,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.4,0.041,139.02,2009,FD6221,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.43,0.099,160.51,1987,NC4128,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+12.32,0.024,128.51,2009,FD179,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+15.3,0.087,199.37,1999,FD8403,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+14.62,0.038,231.55,1999,FD1829,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+14.74,0.069,162.03,1999,DR3751,Low Sugar,Hard Drinks,OUT003,Medium,Tier 1,Departmental Store
+10.59,0.089,174.27,2009,FD7748,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.51,0.021,142.41,2009,FD4766,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.18,0.067,136.11,2009,FD2972,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.98,0.057,103.51,1998,FD719,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+10.9,0.076,115.99,1987,FD6303,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+13.04,0.015,122.08,2009,FD6256,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+8.58,0.166,113.04,1998,FD226,Regular,Dairy,OUT002,Small,Tier 3,Food Mart
+14.36,0.055,181.23,1987,FD2640,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
+12.98,0.142,178.51,1987,FD3478,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+16.17,0.022,160.29,1987,FD3278,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.97,0.052,150.67,2009,FD1216,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.19,0.022,208.18,1999,FD5126,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+11.46,0.033,111.72,1987,FD5259,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
+9.44,0.035,122.54,1998,NC5246,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+12.69,0.018,136.64,1999,FD149,Low Sugar,Breakfast,OUT003,Medium,Tier 1,Departmental Store
+16.83,0.041,175.24,1999,FD5971,Low Sugar,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+11.14,0.165,94.94,1998,FD6933,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+16.48,0.011,155.02,1987,NC82,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+12.68,0.032,133.34,2009,FD8342,reg,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.11,0.031,198.22,1999,FD5426,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+8.58,0.056,153.47,2009,FD1737,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+14.94,0.016,137.4,2009,FD1601,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+13.33,0.089,159.58,2009,NC6827,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.44,0.025,157.96,2009,FD6040,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.67,0.058,166.79,1999,FD7869,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+14.28,0.14,144.26,2009,FD8215,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.21,0.049,147.84,2009,FD1763,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.57,0.036,143.09,2009,FD7339,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+8.5,0.026,158.22,2009,FD5144,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+16.1,0.034,193.49,1999,FD3488,Low Sugar,Starchy Foods,OUT003,Medium,Tier 1,Departmental Store
+13.27,0.035,157.42,2009,FD7447,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.45,0.045,143.25,2009,FD2625,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.76,0.035,138.59,2009,FD6988,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.47,0.059,144.01,2009,FD7591,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.71,0.038,205.11,1999,FD7415,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+15.97,0.057,170.65,1987,FD6514,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+14.21,0.078,123.73,2009,FD3141,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.75,0.086,122.61,2009,NC4930,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+9.47,0.065,177.81,2009,NC6290,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.78,0.018,188.4,1987,FD7619,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
+11.39,0.033,127.97,2009,FD901,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.44,0.042,153.91,2009,FD7782,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+13.79,0.21,154.03,2009,FD1634,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+18.04,0.054,223.08,1999,NC3748,No Sugar,Others,OUT003,Medium,Tier 1,Departmental Store
+11.0,0.054,180.37,2009,FD7418,reg,Breakfast,OUT004,Medium,Tier 2,Supermarket Type2
+13.45,0.038,133.56,2009,DR362,Regular,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.3,0.042,154.99,2009,NC795,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.85,0.046,136.75,2009,NC7177,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.36,0.024,87.74,1998,FD4974,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+16.19,0.123,225.35,1999,FD3368,Low Sugar,Meat,OUT003,Medium,Tier 1,Departmental Store
+15.3,0.019,198.23,1999,FD3077,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+13.05,0.065,161.83,2009,FD4481,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.05,0.016,154.62,1987,FD4105,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+13.9,0.128,140.59,2009,NC6748,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.56,0.048,188.35,1987,NC2038,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+13.16,0.1,166.38,2009,FD2227,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+9.66,0.042,127.15,1987,NC6831,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+12.77,0.094,176.93,1987,FD2182,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+16.47,0.059,128.65,2009,FD3595,Low Sugar,Seafood,OUT004,Medium,Tier 2,Supermarket Type2
+12.46,0.07,93.19,1987,FD224,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.3,0.039,102.35,1998,FD6387,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+11.09,0.021,157.97,2009,NC4429,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.18,0.139,131.76,2009,FD8608,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+20.31,0.131,190.63,1999,FD8713,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+14.7,0.023,154.41,1987,FD3763,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+13.83,0.055,106.74,2009,FD3995,Regular,Breakfast,OUT004,Medium,Tier 2,Supermarket Type2
+10.18,0.062,138.8,2009,NC5280,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.62,0.011,177.88,1999,FD7472,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+10.93,0.022,202.82,1999,FD3657,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+11.69,0.12,161.38,2009,FD5323,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.53,0.086,160.32,2009,FD4868,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.1,0.137,147.9,2009,FD7110,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.71,0.096,119.7,1987,FD2068,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+12.84,0.062,183.08,1999,FD8427,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+15.49,0.029,155.16,1999,DR7021,Regular,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+17.96,0.039,170.04,1987,DR287,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+15.82,0.174,156.17,1999,NC6503,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+11.1,0.008,153.22,2009,FD8107,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.04,0.011,128.04,2009,FD4496,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+13.55,0.079,124.94,2009,FD6041,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.52,0.095,174.45,2009,FD3250,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.0,0.027,161.88,2009,NC2866,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.18,0.047,119.22,2009,FD7533,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.66,0.024,101.85,1998,FD925,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+11.8,0.014,176.73,2009,FD754,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.59,0.086,148.3,2009,FD6863,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.49,0.039,107.78,1987,FD2954,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+13.74,0.028,184.46,1999,FD3360,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+13.19,0.186,135.29,2009,DR5739,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.09,0.131,131.26,1998,FD575,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+7.64,0.019,41.84,1998,FD5378,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+12.29,0.108,156.35,2009,FD1220,Regular,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.09,0.067,187.3,1987,FD3885,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+10.09,0.038,150.73,2009,NC2944,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.58,0.011,144.79,2009,FD4909,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.41,0.039,133.28,2009,NC3974,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.43,0.044,160.44,2009,FD1764,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.05,0.16,163.96,2009,FD5912,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+13.73,0.078,153.86,2009,FD7540,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.37,0.049,181.19,1999,FD500,Regular,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+11.68,0.125,111.67,2009,FD2607,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.9,0.015,126.82,1987,FD4723,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+12.81,0.094,141.59,2009,DR401,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.57,0.027,205.45,1999,FD5777,Low Sugar,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+10.36,0.042,154.75,2009,FD5068,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.3,0.074,153.49,2009,FD1113,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.25,0.129,179.96,1987,FD8192,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
+11.88,0.039,91.12,1998,FD699,Low Sugar,Canned,OUT002,Small,Tier 3,Food Mart
+10.9,0.036,107.79,1998,FD3110,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+11.19,0.077,160.45,2009,FD4046,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+13.54,0.113,221.75,1999,FD3755,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+8.87,0.042,113.46,1998,FD884,Low Sugar,Canned,OUT002,Small,Tier 3,Food Mart
+14.13,0.049,130.21,2009,NC629,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.17,0.036,118.58,2009,DR6385,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+13.88,0.141,196.47,1987,FD2477,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+14.7,0.178,157.63,1987,FD3287,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+7.91,0.119,122.78,1998,NC7184,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+10.56,0.1,92.82,1998,FD6312,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+13.73,0.137,192.14,1987,FD2999,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+14.12,0.051,165.15,1987,NC8674,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+11.14,0.026,144.51,2009,FD3853,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.97,0.023,146.95,2009,FD4903,reg,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.43,0.079,133.54,2009,NC7934,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.76,0.016,168.41,2009,FD3019,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+16.45,0.074,119.11,2009,NC342,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+9.52,0.076,128.96,1987,FD6633,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+13.26,0.027,173.33,1987,NC3743,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+13.73,0.089,172.36,1999,NC2002,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+8.8,0.024,127.36,1998,FD2652,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+10.42,0.11,128.48,2009,NC7961,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.14,0.13,174.86,1999,NC7416,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+12.66,0.105,191.4,1999,FD4130,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.04,0.121,149.5,2009,NC1639,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.18,0.057,141.09,2009,NC4803,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.73,0.023,113.04,2009,FD6297,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.23,0.104,137.7,2009,FD5326,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+11.37,0.027,156.26,2009,FD4337,Regular,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.09,0.058,117.38,2009,FD2770,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.1,0.091,174.64,1999,DR2348,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+11.98,0.03,146.34,2009,FD6000,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.3,0.03,136.75,2009,NC5604,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+9.9,0.015,85.56,1998,FD2446,Regular,Meat,OUT002,Small,Tier 3,Food Mart
+15.27,0.013,166.56,1999,FD6519,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+14.5,0.072,154.7,1987,FD4703,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+11.47,0.052,194.64,1987,FD6732,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+9.47,0.049,142.76,2009,FD788,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.26,0.077,113.37,2009,FD1906,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.2,0.055,117.14,1998,FD4531,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+14.41,0.019,143.79,2009,NC3142,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+16.38,0.029,160.63,1987,FD6477,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+12.99,0.043,125.58,2009,FD6597,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.24,0.041,118.24,2009,FD7358,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.37,0.039,124.24,2009,DR1339,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+5.81,0.053,68.8,1998,FD1345,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+8.76,0.057,114.21,1998,FD1240,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+13.93,0.031,164.12,1987,DR1083,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+13.71,0.021,137.33,2009,FD6299,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.12,0.083,171.03,1999,NC4118,No Sugar,Others,OUT003,Medium,Tier 1,Departmental Store
+13.42,0.033,148.54,2009,FD5871,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.32,0.072,123.07,2009,FD2431,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.16,0.039,171.62,2009,FD4806,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.61,0.124,157.98,2009,FD5810,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.39,0.019,164.5,1999,FD7783,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.04,0.078,144.72,2009,FD6427,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.62,0.03,172.98,1999,FD425,reg,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+11.16,0.04,126.22,2009,FD6833,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.93,0.114,151.26,2009,FD4010,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+15.78,0.291,150.61,1999,FD7376,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+11.26,0.011,169.23,2009,FD5170,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.15,0.021,130.79,2009,FD1627,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.34,0.013,90.26,1998,FD6534,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+13.44,0.035,156.55,2009,FD3593,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+9.79,0.1,96.07,1998,FD4375,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+8.94,0.087,108.35,1998,NC6920,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+12.32,0.079,128.42,2009,NC1783,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.31,0.067,172.49,2009,FD4707,reg,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.67,0.038,150.51,2009,NC7289,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+10.52,0.044,87.07,1998,FD2578,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+12.32,0.031,117.31,2009,FD3809,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.95,0.027,191.65,2009,FD1246,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+13.87,0.085,141.25,2009,FD6787,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+9.2,0.085,109.8,1998,FD2882,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+14.32,0.013,182.57,1987,FD2429,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+14.4,0.091,193.78,1987,FD6155,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+12.21,0.021,142.91,2009,FD7643,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.41,0.034,131.14,2009,FD4174,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+11.13,0.047,102.23,1998,FD1799,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+8.67,0.014,131.35,1998,NC8371,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+16.06,0.096,147.46,1999,FD2101,Low Sugar,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+13.21,0.042,171.81,1987,FD8742,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+11.56,0.027,126.98,2009,FD1548,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+15.32,0.031,166.32,1999,FD1546,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+11.43,0.071,131.75,2009,DR1045,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.26,0.115,169.85,1999,DR1976,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+16.5,0.054,152.48,1999,FD5180,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.91,0.047,163.6,2009,FD2019,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.61,0.173,159.99,2009,FD7322,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.57,0.052,119.79,2009,FD3742,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.87,0.14,128.01,2009,FD2692,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+18.3,0.018,151.98,1999,FD2314,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+13.7,0.122,130.94,2009,FD5442,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.73,0.042,143.71,2009,FD2889,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.42,0.048,164.97,1999,FD2381,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+13.01,0.043,162.94,2009,FD4486,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.1,0.067,189.09,2009,FD6232,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.2,0.077,136.92,2009,FD3910,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+17.37,0.112,193.46,1999,NC8385,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+11.57,0.041,112.41,2009,NC3665,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+15.25,0.052,165.85,1999,DR7489,Regular,Hard Drinks,OUT003,Medium,Tier 1,Departmental Store
+11.44,0.038,99.71,1998,FD7499,Low Sugar,Breads,OUT002,Small,Tier 3,Food Mart
+13.58,0.086,170.01,1998,NC17,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+13.61,0.177,167.03,1987,FD7812,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+9.45,0.047,95.95,1998,FD1961,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+11.79,0.023,154.96,2009,FD2550,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+9.63,0.162,108.43,1998,FD3355,Regular,Dairy,OUT002,Small,Tier 3,Food Mart
+12.71,0.072,171.51,2009,FD2721,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.68,0.103,110.65,1998,FD621,Regular,Canned,OUT002,Small,Tier 3,Food Mart
+11.86,0.049,150.58,2009,FD3617,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.07,0.013,151.58,2009,FD4999,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.92,0.052,129.27,2009,FD2777,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.95,0.113,143.31,2009,FD3785,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+13.93,0.082,182.74,1999,FD2140,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+13.94,0.022,191.19,1987,NC4641,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+11.83,0.12,124.6,2009,FD7009,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+11.67,0.107,122.42,2009,FD2401,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.94,0.089,97.93,1998,NC2197,No Sugar,Others,OUT002,Small,Tier 3,Food Mart
+13.96,0.09,133.13,2009,FD1531,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+7.62,0.136,62.17,1998,FD2949,Low Sugar,Canned,OUT002,Small,Tier 3,Food Mart
+11.98,0.085,112.33,2009,DR4193,Regular,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+13.71,0.121,162.82,1987,FD4628,Regular,Seafood,OUT001,High,Tier 2,Supermarket Type1
+11.4,0.126,116.4,2009,NC5404,No Sugar,Others,OUT004,Medium,Tier 2,Supermarket Type2
+9.98,0.027,125.22,1987,FD8415,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+15.75,0.031,131.43,2009,NC5093,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.12,0.066,181.96,2009,DR3530,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+10.82,0.073,106.25,1998,FD8112,Regular,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+12.02,0.032,132.36,2009,DR4993,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+13.05,0.168,137.46,2009,FD7193,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.3,0.024,102.53,1998,FD6118,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+13.4,0.129,191.29,1987,NC1713,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+13.9,0.033,187.96,1987,DR6582,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+10.54,0.062,124.14,2009,FD4652,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.55,0.025,163.35,1999,FD2711,Regular,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+15.58,0.014,192.36,1999,FD2982,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+15.16,0.104,174.94,1987,FD2543,Regular,Breakfast,OUT001,High,Tier 2,Supermarket Type1
+11.57,0.298,174.65,1999,NC583,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+10.87,0.067,147.96,2009,FD8384,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.19,0.155,118.28,2009,NC1243,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.73,0.139,170.69,1999,FD581,Regular,Starchy Foods,OUT003,Medium,Tier 1,Departmental Store
+16.85,0.032,178.33,1999,FD7725,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+12.56,0.066,145.21,2009,FD7116,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.28,0.076,162.31,2009,FD520,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+10.97,0.128,112.59,1987,FD3257,Regular,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+10.76,0.025,186.22,2009,FD5485,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+15.75,0.059,171.93,1987,NC3056,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+13.19,0.049,144.04,2009,FD5118,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+11.55,0.038,144.6,2009,FD6446,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+19.91,0.067,174.4,1999,FD8576,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+15.78,0.083,198.38,1999,FD2277,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+10.62,0.054,131.01,2009,FD4071,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.14,0.015,201.78,1999,FD7663,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+15.44,0.056,202.42,1999,FD3442,Regular,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+14.38,0.073,206.22,1999,FD2687,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+11.49,0.05,143.55,2009,FD4960,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.04,0.16,134.52,2009,NC8421,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.72,0.274,108.08,2009,FD1361,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+14.58,0.295,161.96,1987,NC2986,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+12.55,0.024,147.68,2009,FD6050,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+15.74,0.166,157.48,1999,FD2796,Low Sugar,Meat,OUT003,Medium,Tier 1,Departmental Store
+14.92,0.053,157.72,1987,FD8383,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+14.94,0.018,196.74,1987,FD1927,Regular,Dairy,OUT001,High,Tier 2,Supermarket Type1
+10.02,0.026,115.99,1998,FD4758,Regular,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+14.69,0.053,152.72,1987,FD4504,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+12.53,0.072,148.53,2009,FD8389,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+13.0,0.027,146.74,2009,FD690,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.44,0.047,124.29,1999,FD301,Low Sugar,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+13.24,0.131,171.54,1987,FD4595,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
+15.31,0.123,146.65,1987,FD7691,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+11.96,0.062,143.25,2009,FD6704,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.34,0.026,87.95,1998,FD5238,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+10.9,0.083,121.33,2009,FD1918,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.64,0.123,180.89,2009,NC1878,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.7,0.09,181.34,1999,NC1293,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+10.77,0.014,129.05,2009,FD1298,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.6,0.131,164.77,2009,FD5192,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.52,0.03,123.79,2009,FD5483,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.74,0.087,177.62,1987,FD5961,Regular,Dairy,OUT001,High,Tier 2,Supermarket Type1
+15.5,0.069,168.03,1999,DR506,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+10.88,0.184,136.57,2009,FD7862,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.0,0.041,157.91,2009,FD7694,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+9.92,0.104,120.78,1998,NC6209,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+8.91,0.026,132.93,1987,FD2581,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
+11.68,0.053,141.24,2009,FD1720,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.01,0.043,134.66,2009,FD8119,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+11.15,0.019,148.13,2009,NC2554,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.24,0.046,149.78,2009,FD55,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.21,0.018,87.91,1998,FD3831,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+15.43,0.094,160.66,1999,FD5879,Regular,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+14.45,0.042,170.68,1998,FD431,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+15.66,0.053,162.81,1999,DR4625,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+15.17,0.12,124.25,2009,FD3575,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+11.24,0.031,130.26,2009,DR6423,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.0,0.035,147.9,2009,FD2473,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.34,0.024,185.01,1987,FD4383,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+10.72,0.031,168.18,2009,NC6702,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.41,0.019,117.74,2009,FD1841,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.3,0.142,166.26,2009,FD3113,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.77,0.035,209.79,1999,FD5487,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+14.49,0.011,203.67,1999,FD5298,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+7.73,0.022,136.35,1998,DR1528,Low Sugar,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+10.72,0.163,150.44,2009,DR7581,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.65,0.078,98.99,1987,FD4247,Low Sugar,Starchy Foods,OUT001,High,Tier 2,Supermarket Type1
+17.21,0.058,166.04,1999,FD8193,Low Sugar,Meat,OUT003,Medium,Tier 1,Departmental Store
+10.41,0.045,94.13,1998,FD8289,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+10.03,0.166,139.29,2009,FD3049,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.81,0.039,155.01,2009,NC2226,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.65,0.048,80.12,1998,FD7014,Regular,Canned,OUT002,Small,Tier 3,Food Mart
+8.96,0.01,137.06,1987,NC2504,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+12.37,0.096,159.01,2009,FD7490,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.57,0.168,162.39,2009,FD5644,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+9.54,0.077,89.16,1998,FD8241,Regular,Breakfast,OUT002,Small,Tier 3,Food Mart
+16.59,0.077,151.9,1999,NC7054,No Sugar,Others,OUT003,Medium,Tier 1,Departmental Store
+9.98,0.129,110.72,1998,FD8244,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+10.15,0.032,60.22,1998,FD4085,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+16.92,0.041,178.04,1999,FD2311,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+12.76,0.035,158.59,2009,FD6870,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.59,0.007,145.95,2009,NC5740,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.23,0.064,171.55,2009,FD988,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+12.95,0.089,153.25,2009,FD722,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+11.79,0.038,143.49,2009,FD1153,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.12,0.026,104.77,1998,NC3753,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+12.84,0.046,144.7,2009,FD3213,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+16.4,0.038,166.56,1987,DR8071,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+11.82,0.095,175.22,2009,DR8268,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+13.84,0.035,132.15,2009,FD3779,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.22,0.025,143.32,2009,FD3898,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+14.26,0.026,181.37,1987,FD1670,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+10.37,0.018,111.87,1998,FD7331,Low Sugar,Canned,OUT002,Small,Tier 3,Food Mart
+12.79,0.041,168.13,2009,FD6161,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.81,0.089,168.73,2009,NC1288,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.14,0.025,152.12,2009,NC4366,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.67,0.049,99.84,1999,FD406,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+13.18,0.015,121.54,2009,NC6485,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.87,0.126,163.18,1987,FD4819,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+15.36,0.056,187.11,1987,NC89,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+12.1,0.094,151.61,2009,NC7732,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.62,0.117,195.81,1999,NC4850,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+12.64,0.093,168.4,2009,FD3329,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.72,0.018,187.38,1999,FD6389,Regular,Breads,OUT003,Medium,Tier 1,Departmental Store
+13.93,0.044,179.57,1999,NC1724,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+9.6,0.033,144.63,2009,FD5855,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.22,0.02,135.23,2009,DR5026,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.42,0.028,152.78,2009,FD4701,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.03,0.032,168.48,2009,NC1882,No Sugar,Others,OUT004,Medium,Tier 2,Supermarket Type2
+15.92,0.14,96.04,2009,FD1636,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+14.05,0.122,164.51,1987,FD6292,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
+10.98,0.03,179.08,2009,FD1547,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.95,0.128,149.98,2009,FD4405,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.34,0.027,165.36,2009,FD2850,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.91,0.026,119.28,2009,FD5074,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+16.23,0.009,184.92,1999,FD4572,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+11.45,0.004,119.93,2009,FD3648,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.57,0.036,172.0,2009,FD3398,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.86,0.173,110.44,1998,FD3917,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+14.7,0.03,175.92,1987,FD6717,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+10.52,0.035,123.52,1987,FD4072,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+14.73,0.027,148.35,2009,FD2185,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+9.88,0.03,161.65,2009,NC5755,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+9.91,0.142,124.09,1987,FD8347,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+13.61,0.036,191.56,1987,DR1262,Low Sugar,Hard Drinks,OUT001,High,Tier 2,Supermarket Type1
+13.45,0.049,179.74,1999,FD5428,Regular,Dairy,OUT003,Medium,Tier 1,Departmental Store
+10.62,0.082,160.01,1999,FD344,Low Sugar,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+13.15,0.053,116.92,2009,FD2045,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.22,0.18,107.63,2009,NC2977,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.82,0.098,149.84,2009,FD8543,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+16.23,0.007,152.46,1999,FD3516,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+16.97,0.077,190.24,1999,FD6222,Regular,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+14.97,0.015,150.82,1987,FD3446,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+13.9,0.063,118.24,2009,FD8228,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.39,0.062,148.13,2009,FD952,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.14,0.039,180.49,2009,FD6137,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+11.37,0.042,148.76,2009,FD1538,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.36,0.026,129.89,2009,FD2132,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.7,0.037,201.66,1987,FD5766,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+12.32,0.01,160.78,2009,FD1221,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.58,0.116,121.32,2009,FD7550,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.79,0.041,168.8,2009,NC1016,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.54,0.079,117.68,1987,DR455,Regular,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+9.21,0.147,111.69,1998,NC2681,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+10.92,0.018,140.44,1999,DR49,Regular,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+11.12,0.121,121.1,2009,NC6386,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.26,0.017,130.83,2009,FD3662,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+13.31,0.077,169.93,1987,FD6742,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+15.71,0.063,148.95,1987,FD5978,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+11.43,0.014,139.72,2009,FD3857,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+14.91,0.125,139.87,2009,FD4089,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.23,0.019,137.19,2009,FD5202,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+15.95,0.139,135.72,2009,NC2141,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+10.67,0.27,145.07,2009,FD3201,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.79,0.057,98.9,2009,FD4338,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.2,0.089,166.49,2009,NC4577,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.3,0.081,149.55,2009,DR8490,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.18,0.04,162.28,2009,NC8372,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.7,0.017,144.49,2009,FD1263,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.49,0.049,175.16,1999,FD5586,Low Sugar,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+15.2,0.012,179.74,1987,FD6842,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+12.86,0.071,129.34,2009,NC4900,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.11,0.165,140.91,2009,FD7759,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+9.65,0.066,82.08,1998,FD4393,Low Sugar,Breakfast,OUT002,Small,Tier 3,Food Mart
+11.47,0.052,148.51,2009,FD2680,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.75,0.073,132.21,2009,FD7947,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.82,0.066,139.09,2009,FD8387,Regular,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+9.18,0.029,98.11,1998,DR7033,Regular,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+11.92,0.017,146.51,2009,NC3274,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+10.62,0.068,145.3,2009,FD3632,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.15,0.053,156.65,2009,FD7789,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.22,0.08,181.36,1987,NC5204,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+13.28,0.075,215.81,1999,FD2576,Low Sugar,Breads,OUT003,Medium,Tier 1,Departmental Store
+13.71,0.061,140.64,2009,FD4642,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.49,0.053,176.79,1987,NC7065,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+12.75,0.02,139.42,2009,FD5964,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.42,0.072,179.01,1987,NC4485,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+13.45,0.032,126.96,2009,FD1500,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.56,0.105,155.88,2009,FD67,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+13.56,0.184,136.92,2009,FD6242,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.89,0.026,162.77,2009,NC2153,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.04,0.128,149.87,2009,DR797,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+8.31,0.031,92.66,1998,FD2827,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+10.98,0.008,147.43,2009,FD1613,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.53,0.039,193.25,1999,NC6138,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+14.56,0.286,128.02,2009,FD1206,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+13.64,0.04,158.51,2009,DR4890,reg,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+13.01,0.052,144.55,2009,FD7131,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.25,0.052,205.35,1999,FD3179,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+12.92,0.118,183.5,1999,FD3535,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+13.42,0.041,95.92,2009,FD763,Regular,Breakfast,OUT004,Medium,Tier 2,Supermarket Type2
+10.46,0.015,128.68,2009,FD8161,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+17.48,0.111,167.59,1999,DR1765,Regular,Hard Drinks,OUT003,Medium,Tier 1,Departmental Store
+11.8,0.064,139.51,2009,FD2834,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.45,0.098,127.37,2009,FD3312,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.73,0.073,148.4,2009,NC6668,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.82,0.128,98.36,1998,FD7190,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+14.73,0.021,172.75,1999,FD3423,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+12.58,0.128,139.56,2009,FD6806,Low Sugar,Seafood,OUT004,Medium,Tier 2,Supermarket Type2
+13.02,0.102,168.86,2009,FD7391,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.15,0.038,155.99,2009,FD7793,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.48,0.044,155.55,1999,FD6823,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+14.98,0.092,150.59,1987,FD290,Low Sugar,Starchy Foods,OUT001,High,Tier 2,Supermarket Type1
+8.65,0.021,118.18,1998,NC7721,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+15.33,0.04,154.47,1999,NC2586,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+12.61,0.085,163.98,2009,DR8322,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.76,0.094,100.44,2009,NC7616,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.98,0.046,161.48,1999,FD6323,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+15.03,0.067,115.38,2009,FD5724,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+8.27,0.04,152.07,2009,NC5041,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.16,0.017,174.77,2009,FD4409,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.27,0.021,151.5,2009,NC2151,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.0,0.066,136.94,2009,NC4283,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.14,0.089,174.32,2009,FD2010,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.83,0.035,155.26,1987,DR6171,Regular,Hard Drinks,OUT001,High,Tier 2,Supermarket Type1
+14.46,0.026,161.98,1987,NC3699,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+10.83,0.051,163.38,2009,FD5108,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.02,0.005,140.49,2009,NC1471,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+19.55,0.047,176.27,1999,FD1348,Low Sugar,Starchy Foods,OUT003,Medium,Tier 1,Departmental Store
+13.89,0.193,168.44,1987,NC7187,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+12.51,0.069,154.31,2009,FD924,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+11.57,0.065,111.84,1987,FD8179,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.41,0.113,143.49,2009,NC3994,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.75,0.016,172.22,1999,FD7028,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+10.29,0.174,100.03,1998,NC2269,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+13.82,0.047,168.29,1987,FD6325,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+14.41,0.035,131.41,2009,FD4371,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.3,0.134,137.82,2009,FD1940,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.3,0.033,163.81,2009,DR3716,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.27,0.027,87.56,1998,FD7048,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+8.27,0.145,116.25,1998,FD2928,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+10.31,0.07,122.61,1987,FD1025,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+17.39,0.07,137.14,1999,DR6796,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+13.13,0.053,148.39,2009,FD1842,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+11.39,0.066,153.58,2009,FD4898,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+8.41,0.038,125.52,1998,FD8328,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+8.91,0.013,127.02,1998,NC6272,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+15.8,0.09,183.34,1987,FD694,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+13.33,0.174,112.98,2009,FD5656,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+17.58,0.077,186.16,1999,NC6853,No Sugar,Others,OUT003,Medium,Tier 1,Departmental Store
+10.81,0.04,117.47,1987,FD7235,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+9.62,0.128,128.23,1987,FD4408,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+11.67,0.103,134.73,2009,FD721,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.24,0.054,123.06,2009,FD2556,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+17.79,0.049,164.33,1999,FD7421,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+10.38,0.012,87.14,1998,FD1903,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+13.76,0.059,142.63,2009,FD1074,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.78,0.012,154.9,2009,NC791,No Sugar,Others,OUT004,Medium,Tier 2,Supermarket Type2
+11.43,0.057,104.83,1987,NC8487,No Sugar,Others,OUT001,High,Tier 2,Supermarket Type1
+13.32,0.08,161.91,2009,FD1099,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.06,0.127,93.41,1987,FD102,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+9.94,0.126,114.27,1998,FD2990,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+18.0,0.118,179.6,1999,FD5389,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+11.38,0.086,168.02,2009,FD1779,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.81,0.066,157.7,2009,FD626,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.45,0.094,192.35,1987,FD1686,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+18.98,0.021,203.09,1999,FD3681,Regular,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+15.81,0.088,130.95,2009,FD4538,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.44,0.012,151.93,2009,DR2739,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+10.29,0.113,166.58,2009,FD1350,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.94,0.075,109.45,2009,FD815,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+17.29,0.125,207.43,1999,FD4516,Low Sugar,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+15.7,0.042,169.76,1987,FD5158,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+13.04,0.034,185.53,1999,FD7000,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+11.25,0.031,105.49,1998,NC5811,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+13.79,0.106,162.59,1987,FD6249,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+10.01,0.053,111.14,1998,FD8285,Regular,Dairy,OUT002,Small,Tier 3,Food Mart
+11.86,0.035,101.33,1987,FD5591,Regular,Breakfast,OUT001,High,Tier 2,Supermarket Type1
+16.07,0.067,176.39,1987,FD2191,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+8.85,0.034,104.51,1998,FD8399,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+16.67,0.017,208.21,1999,FD7695,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+14.7,0.015,227.14,1999,DR3660,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+12.81,0.074,111.97,2009,NC756,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.0,0.076,152.55,2009,NC7657,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.5,0.172,156.08,1987,FD3718,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+15.45,0.28,160.62,1999,FD3376,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+11.58,0.018,141.99,2009,FD6644,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+15.18,0.079,190.65,1987,FD7274,Regular,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+11.14,0.038,138.81,2009,FD3860,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+11.48,0.031,113.48,2009,FD4914,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+9.86,0.01,152.54,2009,FD5808,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+9.06,0.027,152.67,2009,FD4376,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+9.6,0.06,124.9,1987,NC8535,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+15.49,0.149,166.24,1999,FD8052,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+13.28,0.115,184.11,1999,FD8442,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+12.31,0.029,132.27,2009,FD7856,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.95,0.076,157.84,2009,FD2768,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+8.95,0.016,108.2,1998,FD1917,Regular,Baking Goods,OUT002,Small,Tier 3,Food Mart
+14.5,0.102,145.7,2009,FD6984,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.74,0.113,188.23,1999,NC4505,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+10.2,0.073,152.0,2009,FD5521,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.09,0.062,132.24,2009,DR8485,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.5,0.062,180.97,1987,FD1402,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+14.96,0.033,179.22,1987,FD7549,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+15.01,0.033,190.45,1987,FD7685,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+14.93,0.047,202.51,1999,NC522,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+11.35,0.062,131.18,2009,FD7182,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.41,0.035,134.92,2009,NC5211,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.65,0.154,119.85,1999,FD169,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+10.44,0.022,97.29,1998,FD5549,Regular,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+13.6,0.022,147.93,2009,FD2965,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.69,0.113,137.99,2009,FD2272,Regular,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+10.46,0.118,155.19,1998,NC329,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+13.32,0.047,142.68,2009,FD3214,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.64,0.078,190.67,1987,FD874,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+10.5,0.14,106.26,1998,FD5419,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+14.5,0.033,160.2,1987,FD4965,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+15.93,0.026,168.48,1987,FD918,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+14.79,0.065,176.73,1987,DR515,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+10.11,0.036,139.32,2009,FD5109,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+16.13,0.069,157.36,1999,FD7496,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+8.9,0.02,108.29,1998,FD7263,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+14.3,0.038,102.93,2009,FD1061,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.92,0.023,114.87,1987,DR8623,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+12.56,0.128,163.28,2009,FD1792,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.74,0.03,90.7,1998,FD5665,Low Sugar,Breakfast,OUT002,Small,Tier 3,Food Mart
+12.08,0.035,119.58,2009,FD2487,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.96,0.01,96.35,1998,FD5628,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+15.09,0.037,128.49,2009,FD1352,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.37,0.086,157.13,2009,DR5266,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.4,0.056,168.06,2009,FD5273,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.75,0.093,116.25,2009,DR5458,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+13.59,0.015,141.86,2009,NC1563,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.78,0.128,171.78,2009,FD2869,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.77,0.055,151.41,1987,NC7752,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+9.16,0.026,86.38,1998,FD1900,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+9.51,0.079,94.15,1998,NC1898,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+11.89,0.1,165.2,2009,FD6749,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.79,0.146,159.01,1999,FD7887,Low Sugar,Seafood,OUT003,Medium,Tier 1,Departmental Store
+10.89,0.173,105.54,1998,FD390,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+11.82,0.061,113.32,2009,FD2481,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+13.98,0.039,178.92,1999,FD4688,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+14.99,0.025,194.94,1987,FD6766,Low Sugar,Breads,OUT001,High,Tier 2,Supermarket Type1
+16.46,0.01,186.04,1999,FD5531,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+14.22,0.027,170.66,1999,FD8545,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+10.89,0.032,147.02,2009,FD617,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.97,0.036,184.16,1999,FD2742,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+11.89,0.028,108.68,1987,FD7798,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+12.85,0.071,149.41,2009,DR1285,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.15,0.107,118.28,2009,FD6821,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.39,0.015,171.28,2009,FD1492,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+13.58,0.04,144.93,2009,NC4689,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.88,0.21,129.82,2009,FD7829,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.36,0.039,107.02,1998,NC3084,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+14.52,0.031,174.8,1999,FD6698,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+5.72,0.054,73.62,1998,FD6180,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+12.61,0.086,146.61,2009,FD6603,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+11.01,0.123,101.95,1998,FD4979,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+7.73,0.068,115.8,1998,NC2363,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+13.24,0.077,160.15,2009,FD5501,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.97,0.147,133.97,2009,DR2923,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.5,0.128,132.55,2009,FD6436,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.64,0.06,183.21,1987,FD8288,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+14.53,0.132,174.17,1999,FD6801,Low Sugar,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+13.76,0.153,164.47,1987,FD7683,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+15.95,0.043,196.35,1999,FD8214,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+9.14,0.036,159.23,2009,FD2428,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.05,0.12,147.05,2009,NC50,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.23,0.123,109.06,2009,FD7602,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.24,0.078,133.55,2009,FD1035,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.65,0.117,106.35,1998,FD5403,Low Sugar,Breads,OUT002,Small,Tier 3,Food Mart
+11.03,0.024,82.26,1998,FD8302,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+10.77,0.069,145.19,2009,NC5112,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.92,0.013,175.56,1999,FD4560,Low Sugar,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+11.19,0.015,168.64,2009,FD2749,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.09,0.036,110.69,1987,FD1732,Regular,Seafood,OUT001,High,Tier 2,Supermarket Type1
+13.62,0.074,129.19,2009,FD103,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.67,0.118,173.5,1999,NC2343,No Sugar,Others,OUT003,Medium,Tier 1,Departmental Store
+10.77,0.126,141.22,2009,NC6513,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.28,0.045,149.12,2009,FD398,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.83,0.017,117.53,2009,DR8446,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.67,0.119,152.41,2009,FD3893,Regular,Seafood,OUT004,Medium,Tier 2,Supermarket Type2
+12.02,0.026,186.55,1987,NC7753,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+12.25,0.025,153.72,2009,FD7326,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.29,0.071,154.96,2009,FD5905,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.85,0.113,177.8,1998,FD523,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+11.76,0.082,180.96,2009,FD8039,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+8.47,0.033,116.52,1998,DR5915,Regular,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+16.5,0.11,160.79,1987,FD3136,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+12.72,0.151,127.92,2009,FD5986,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.76,0.038,170.12,1987,FD2874,Regular,Dairy,OUT001,High,Tier 2,Supermarket Type1
+10.77,0.065,104.63,1998,FD1217,Regular,Canned,OUT002,Small,Tier 3,Food Mart
+12.95,0.023,138.22,2009,FD7428,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+13.61,0.044,130.29,2009,FD6005,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+14.58,0.058,155.51,1987,NC1784,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+10.69,0.039,103.88,1998,FD2326,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+11.85,0.03,157.48,2009,FD6317,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+9.12,0.057,136.29,1987,FD3017,Regular,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+8.62,0.16,104.51,1998,FD6648,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+11.55,0.035,90.8,1987,FD242,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+14.22,0.077,145.91,2009,NC7631,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.19,0.182,141.96,2009,FD2241,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+13.3,0.11,103.39,2009,FD6822,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+10.51,0.048,76.35,1998,FD3022,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+12.0,0.097,141.49,2009,FD6487,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.98,0.029,163.33,2009,FD1740,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+13.06,0.112,87.14,1987,FD7128,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+12.21,0.108,173.81,2009,FD1369,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.3,0.085,160.14,1999,FD8204,Low Sugar,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+12.82,0.112,178.24,1987,FD4964,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+13.31,0.054,143.27,2009,FD3086,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.89,0.031,151.15,2009,NC8523,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+10.42,0.032,103.85,1998,FD3895,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+11.62,0.034,161.09,2009,NC5800,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.32,0.034,131.74,2009,NC2328,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.88,0.046,168.91,2009,FD6172,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.8,0.106,160.86,1999,FD8704,Regular,Dairy,OUT003,Medium,Tier 1,Departmental Store
+9.65,0.092,140.61,1999,FD5,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+12.92,0.028,191.12,1999,FD6688,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+10.78,0.08,155.54,2009,FD3933,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+9.58,0.126,170.34,2009,FD6374,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+10.57,0.053,119.58,1987,FD3311,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+14.74,0.147,99.48,2009,FD6964,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+16.3,0.014,171.06,1987,FD7220,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+9.8,0.21,112.39,1998,NC5135,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+8.48,0.186,81.59,1998,FD3939,Regular,Canned,OUT002,Small,Tier 3,Food Mart
+13.07,0.118,172.25,1987,FD2617,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+12.76,0.017,192.15,1999,FD1701,Low Sugar,Meat,OUT003,Medium,Tier 1,Departmental Store
+12.17,0.03,146.13,2009,FD7677,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.37,0.142,133.57,2009,FD5839,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.1,0.019,93.81,1998,FD4869,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+13.11,0.11,176.0,1987,FD8426,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+15.01,0.094,164.47,1999,NC7744,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+10.51,0.062,53.83,1998,FD3923,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+13.37,0.089,108.51,2009,FD3380,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.24,0.14,127.3,2009,FD979,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.61,0.094,165.52,1999,FD132,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+16.95,0.042,194.85,1999,FD1251,Regular,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+10.74,0.175,151.56,2009,FD7001,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.87,0.099,128.43,2009,FD8739,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.08,0.121,159.31,1987,FD880,reg,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+10.45,0.021,161.39,2009,FD7145,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.92,0.035,166.65,2009,FD5757,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.44,0.02,150.39,2009,FD7599,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.34,0.014,160.3,1987,FD3313,reg,Meat,OUT001,High,Tier 2,Supermarket Type1
+13.15,0.056,134.82,2009,FD3940,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.87,0.055,148.99,2009,NC3778,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.79,0.124,133.55,2009,FD3600,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+15.21,0.035,159.27,1987,FD376,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
+16.53,0.077,215.22,1999,FD8344,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+10.88,0.058,105.11,1998,FD6683,Low Sugar,Seafood,OUT002,Small,Tier 3,Food Mart
+10.52,0.045,153.92,2009,FD7974,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.29,0.023,123.32,1987,NC7058,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+13.94,0.03,95.32,2009,NC2798,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.84,0.176,171.83,1999,FD2610,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+15.29,0.029,173.15,1998,FD200,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+15.51,0.073,170.86,1987,DR1356,reg,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+12.7,0.108,99.65,1987,FD630,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+10.13,0.128,100.5,1998,FD4586,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+13.75,0.023,161.12,2009,FD3677,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.52,0.024,132.07,2009,FD3529,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+10.6,0.027,91.29,1987,FD456,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+14.76,0.113,129.19,2009,FD6916,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.4,0.1,93.25,1998,FD949,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+12.03,0.084,127.16,2009,NC1759,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.74,0.149,157.19,2009,NC8467,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.06,0.074,120.19,1998,FD8593,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+13.19,0.169,146.81,2009,FD1561,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.97,0.083,96.19,1998,NC1857,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+7.96,0.017,115.71,1998,FD688,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+11.6,0.129,118.92,2009,FD2564,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+9.55,0.127,100.28,1998,FD5523,Regular,Dairy,OUT002,Small,Tier 3,Food Mart
+6.6,0.17,107.3,1998,FD6360,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+7.89,0.048,110.15,1998,FD5692,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+12.97,0.115,136.05,2009,FD3479,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+8.71,0.076,153.67,2009,FD8738,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.47,0.078,156.38,2009,DR5338,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.8,0.017,177.73,1987,FD5065,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+16.55,0.052,184.84,1999,FD6536,Regular,Canned,OUT003,Medium,Tier 1,Departmental Store
+11.99,0.075,161.14,2009,FD5850,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.27,0.031,154.9,2009,DR2331,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.95,0.162,157.08,2009,FD7963,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+15.62,0.164,133.28,2009,FD7423,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.92,0.035,96.86,1998,FD5607,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+12.98,0.211,118.77,2009,NC6033,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.34,0.03,147.15,2009,FD8169,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.62,0.015,171.2,1999,FD1977,Low Sugar,Meat,OUT003,Medium,Tier 1,Departmental Store
+12.14,0.027,140.48,2009,FD2671,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.89,0.061,134.16,2009,FD1796,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.1,0.026,95.96,2009,FD4062,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.57,0.077,145.88,2009,FD5057,Regular,Seafood,OUT004,Medium,Tier 2,Supermarket Type2
+13.38,0.018,138.23,2009,FD5681,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.7,0.185,199.75,1987,FD222,Regular,Dairy,OUT001,High,Tier 2,Supermarket Type1
+12.06,0.082,141.87,2009,FD8081,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+11.0,0.173,126.72,2009,FD8707,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.55,0.08,148.43,2009,FD700,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+16.75,0.027,211.71,1999,FD7154,Low Sugar,Breakfast,OUT003,Medium,Tier 1,Departmental Store
+8.25,0.01,151.69,2009,FD6998,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+13.53,0.057,128.73,2009,FD7202,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+16.65,0.089,190.63,1999,FD982,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+16.09,0.141,182.79,1999,FD5354,Regular,Canned,OUT003,Medium,Tier 1,Departmental Store
+14.09,0.074,179.77,1999,FD7425,Low Sugar,Breads,OUT003,Medium,Tier 1,Departmental Store
+12.66,0.027,117.08,2009,FD6114,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.47,0.089,102.13,1999,FD561,Regular,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+12.39,0.076,184.01,1987,FD1140,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+15.98,0.016,176.26,1987,FD7965,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+12.03,0.044,126.03,2009,FD3997,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.25,0.064,93.78,1998,FD6591,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+11.67,0.098,139.09,2009,FD6789,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.62,0.056,164.29,1999,FD976,Regular,Canned,OUT003,Medium,Tier 1,Departmental Store
+13.81,0.017,164.81,1987,FD5949,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+12.6,0.087,145.18,2009,NC4552,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.6,0.041,164.6,2009,NC4199,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.06,0.165,101.07,1987,NC3271,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+12.88,0.148,121.06,2009,FD5578,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.68,0.014,164.7,1999,FD8611,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+10.89,0.061,84.31,1998,FD4708,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+7.27,0.011,104.5,1998,FD2781,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+14.51,0.14,171.24,1999,FD7787,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+11.72,0.101,116.19,2009,FD2489,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.4,0.116,151.96,2009,NC6401,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.05,0.076,164.46,2009,FD3448,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+8.26,0.042,94.14,1998,FD1304,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+14.63,0.045,128.34,2009,NC5983,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+15.67,0.078,144.64,1987,DR1389,Low Sugar,Hard Drinks,OUT001,High,Tier 2,Supermarket Type1
+13.65,0.011,159.29,2009,FD6828,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+12.7,0.021,153.44,2009,FD3264,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.55,0.07,113.13,1998,FD734,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+12.17,0.045,156.69,2009,NC4324,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.68,0.058,74.35,1998,FD4129,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+15.15,0.019,145.79,2009,FD7432,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+13.41,0.02,163.29,2009,NC2325,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+9.98,0.092,135.0,2009,FD1662,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+6.85,0.098,112.86,1998,FD5128,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+9.76,0.044,118.38,1998,DR128,Low Sugar,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+12.84,0.052,177.88,1987,FD5626,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+12.01,0.099,119.46,2009,FD937,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.92,0.137,106.24,2009,DR4858,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.7,0.185,124.5,2009,FD2708,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.66,0.031,71.59,1998,FD7072,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+12.65,0.145,134.69,2009,NC1023,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+18.94,0.128,194.74,1999,DR977,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+18.31,0.071,175.55,1999,FD2958,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+10.38,0.095,131.93,2009,FD1991,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.35,0.015,152.86,2009,FD7485,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.96,0.016,136.4,2009,FD1468,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+11.11,0.02,163.11,2009,DR3289,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.46,0.085,187.7,1999,DR23,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+13.1,0.142,194.13,1987,NC4500,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+12.83,0.09,166.31,2009,DR6007,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.57,0.021,158.74,1987,FD3068,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+12.52,0.026,155.11,2009,FD6362,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+17.11,0.163,130.49,1987,FD2362,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+11.64,0.029,182.5,2009,FD198,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.21,0.061,144.53,2009,DR4692,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.84,0.068,179.73,1987,FD4517,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+10.89,0.02,100.18,1998,FD4406,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+9.79,0.027,175.9,2009,NC8361,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+13.02,0.033,174.11,1987,FD2521,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+13.49,0.089,153.55,2009,FD1727,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.95,0.112,118.32,2009,FD473,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.37,0.066,167.02,1987,DR165,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+14.7,0.077,212.65,1999,DR911,Regular,Hard Drinks,OUT003,Medium,Tier 1,Departmental Store
+15.58,0.103,197.53,1999,FD2133,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+13.99,0.029,194.61,1987,FD8683,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+18.95,0.015,222.53,1999,FD2602,Low Sugar,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+11.96,0.078,172.14,2009,NC4227,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+16.01,0.053,156.07,1999,FD2270,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+14.47,0.155,140.23,2009,FD2052,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.1,0.17,193.93,1998,DR397,Low Sugar,Hard Drinks,OUT002,Small,Tier 3,Food Mart
+14.58,0.04,152.5,1987,FD5909,Regular,Starchy Foods,OUT001,High,Tier 2,Supermarket Type1
+12.3,0.018,135.69,2009,FD7251,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.28,0.135,113.83,1998,FD3970,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+11.07,0.058,147.38,2009,FD5720,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.58,0.093,159.98,2009,FD3639,reg,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.52,0.079,163.24,2009,FD5494,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.36,0.029,182.54,1987,FD3207,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+11.39,0.067,115.79,2009,FD5785,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.84,0.011,101.99,2009,FD4483,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.79,0.036,146.22,2009,FD2927,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.43,0.038,150.27,2009,FD3477,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.07,0.015,145.3,2009,FD3658,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.72,0.067,175.44,1987,NC5080,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+7.55,0.052,98.17,1998,NC1446,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+10.74,0.126,149.78,2009,FD4177,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.03,0.104,168.73,2009,FD7595,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.86,0.025,113.84,2009,FD3196,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.84,0.045,202.23,1987,FD1736,Regular,Starchy Foods,OUT001,High,Tier 2,Supermarket Type1
+9.64,0.076,170.36,2009,FD7312,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+7.98,0.042,122.15,1998,FD1904,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+14.6,0.112,173.31,1999,FD7259,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+10.77,0.12,99.48,1998,FD6529,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+14.23,0.191,167.6,1999,NC3849,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+12.78,0.035,89.61,1987,FD5577,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+10.21,0.013,107.51,1998,FD7669,Regular,Dairy,OUT002,Small,Tier 3,Food Mart
+13.07,0.126,148.88,2009,NC8525,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.91,0.035,140.6,2009,FD6537,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.11,0.091,170.34,2009,FD806,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.27,0.086,198.91,1987,FD1863,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+13.51,0.04,161.85,2009,FD6580,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.28,0.069,130.75,2009,FD3987,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.39,0.041,128.16,2009,NC5310,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.03,0.274,157.22,2009,FD6661,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+13.61,0.033,117.34,2009,FD1811,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+10.15,0.014,59.96,1998,NC4151,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+11.6,0.034,113.54,2009,FD6971,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+16.65,0.026,188.74,1999,FD5730,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+9.93,0.045,124.12,1987,FD2413,Low Sugar,Starchy Foods,OUT001,High,Tier 2,Supermarket Type1
+9.72,0.114,146.37,2009,FD8300,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.59,0.105,159.67,1998,FD384,Regular,Baking Goods,OUT002,Small,Tier 3,Food Mart
+12.98,0.04,183.24,1999,NC7329,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+14.73,0.027,156.1,1987,DR5524,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+10.49,0.027,138.04,2009,FD4000,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.71,0.034,140.78,2009,DR4578,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.13,0.032,162.07,1987,FD5434,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.15,0.096,76.14,1987,FD340,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+11.55,0.059,130.07,2009,DR1805,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+7.86,0.027,110.26,1998,FD2845,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+11.89,0.072,159.91,2009,NC615,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.54,0.144,136.84,2009,DR7461,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+10.86,0.05,137.11,2009,FD8205,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.69,0.025,128.45,2009,FD6900,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+14.71,0.016,154.94,1987,FD4302,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+12.95,0.076,155.55,2009,FD5131,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.59,0.031,184.38,1999,FD8257,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+14.74,0.067,142.5,2009,NC4204,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.39,0.112,156.21,2009,NC2034,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+10.32,0.053,123.72,1987,FD6832,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+15.09,0.077,131.45,2009,FD2064,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.56,0.017,161.04,2009,FD5390,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+10.25,0.17,135.07,2009,FD7726,Low Sugar,Seafood,OUT004,Medium,Tier 2,Supermarket Type2
+14.69,0.031,151.12,2009,FD7551,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.38,0.038,142.12,2009,FD5870,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.92,0.086,174.86,1987,NC8317,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+14.93,0.118,171.78,1999,FD3137,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+12.21,0.034,133.22,2009,FD5478,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+14.61,0.016,141.97,2009,FD5844,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.45,0.076,145.41,2009,DR8075,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+16.01,0.104,237.33,1999,NC2594,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+12.31,0.049,84.27,1998,FD4573,Low Sugar,Canned,OUT002,Small,Tier 3,Food Mart
+15.87,0.08,167.92,1987,NC1080,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+13.76,0.064,189.07,1987,FD7377,Regular,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+15.22,0.049,189.82,1987,FD7771,Regular,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+12.57,0.189,217.09,1987,FD5957,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.81,0.058,111.58,2009,FD6966,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+13.7,0.119,175.92,1999,FD5091,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+13.07,0.014,146.04,2009,FD2838,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.98,0.021,159.73,1999,FD5335,Low Sugar,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+14.56,0.105,180.21,1987,FD4281,reg,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+12.95,0.141,148.36,2009,NC4659,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.2,0.019,194.9,1987,NC2257,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+12.11,0.079,132.74,2009,NC2661,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.47,0.049,170.25,1999,FD7311,Low Sugar,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+15.51,0.054,165.39,1999,DR8514,Low Sugar,Hard Drinks,OUT003,Medium,Tier 1,Departmental Store
+14.25,0.055,190.69,1987,FD7750,Low Sugar,Seafood,OUT001,High,Tier 2,Supermarket Type1
+10.2,0.115,127.73,2009,FD8007,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.88,0.058,226.59,1987,FD1698,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+13.19,0.062,160.97,2009,FD7606,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+12.49,0.171,142.49,2009,FD2245,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.1,0.031,164.26,2009,FD2072,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.01,0.138,97.48,1998,FD1712,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+13.33,0.048,173.82,1987,FD5780,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+15.22,0.098,172.71,1987,FD1914,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+16.47,0.126,141.35,1987,FD8287,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+12.57,0.025,110.3,2009,NC2729,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+17.65,0.072,173.66,1999,FD6720,Regular,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+12.54,0.077,135.28,2009,FD2406,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.37,0.067,145.37,2009,FD5799,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+13.75,0.161,196.25,1987,NC5154,No Sugar,Others,OUT001,High,Tier 2,Supermarket Type1
+13.1,0.068,152.97,2009,NC7936,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+15.01,0.095,199.05,1999,FD5526,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+13.18,0.104,156.22,2009,FD8557,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.87,0.093,185.03,1999,FD1255,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+13.21,0.026,120.97,2009,FD6744,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.93,0.055,149.27,2009,NC7625,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.27,0.061,134.88,2009,FD3437,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+15.27,0.125,136.16,1998,NC383,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+11.77,0.057,132.2,2009,FD1658,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.92,0.108,175.43,1987,FD8220,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+11.23,0.066,115.7,1987,NC7848,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+19.0,0.026,202.27,1999,FD7246,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.51,0.039,160.5,2009,NC8246,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.24,0.026,150.93,2009,FD8477,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.1,0.031,122.32,2009,FD7456,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+16.64,0.12,194.21,1999,FD4636,Regular,Breakfast,OUT003,Medium,Tier 1,Departmental Store
+12.67,0.074,139.06,2009,FD6794,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.96,0.057,190.61,1987,FD5452,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+19.61,0.168,236.83,1999,FD4152,Regular,Canned,OUT003,Medium,Tier 1,Departmental Store
+13.27,0.028,131.42,2009,FD8162,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.29,0.047,72.58,1998,FD1821,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+13.75,0.025,198.23,1987,FD8093,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+14.51,0.055,139.9,2009,FD753,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.39,0.12,77.7,1998,FD1631,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+15.34,0.007,193.67,1999,FD4317,Regular,Starchy Foods,OUT003,Medium,Tier 1,Departmental Store
+10.49,0.096,131.73,2009,FD2287,Regular,Seafood,OUT004,Medium,Tier 2,Supermarket Type2
+14.32,0.058,156.33,1987,FD6495,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+8.91,0.108,113.78,1998,FD1219,Low Sugar,Canned,OUT002,Small,Tier 3,Food Mart
+11.16,0.042,89.14,1998,DR8186,Low Sugar,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+16.04,0.028,171.28,1987,FD8434,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+13.55,0.021,133.29,2009,FD7847,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+10.18,0.021,112.92,1998,FD5316,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+17.18,0.092,202.99,1999,FD2414,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+14.34,0.043,192.42,1987,FD6839,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+11.69,0.025,101.1,1998,FD4967,Regular,Baking Goods,OUT002,Small,Tier 3,Food Mart
+9.99,0.042,171.44,2009,DR447,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+9.96,0.118,120.32,1998,NC4590,No Sugar,Others,OUT002,Small,Tier 3,Food Mart
+10.15,0.087,92.32,1998,FD5967,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+11.87,0.04,112.01,2009,FD4501,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+19.13,0.018,166.57,1999,FD2817,Low Sugar,Meat,OUT003,Medium,Tier 1,Departmental Store
+10.72,0.025,104.39,1998,FD1116,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+12.37,0.154,107.55,2009,NC527,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+10.36,0.03,144.25,2009,FD4240,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.63,0.054,178.27,1987,DR3835,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+13.21,0.097,144.52,2009,NC4171,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.05,0.046,124.5,2009,NC6145,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+15.01,0.032,181.13,1987,NC7758,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+14.37,0.113,181.98,1987,DR6457,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+13.06,0.074,160.34,2009,FD4203,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.1,0.106,203.7,1987,NC687,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+11.35,0.036,148.33,2009,FD8379,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.57,0.023,150.93,2009,FD4654,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.27,0.069,195.27,1999,FD5174,Low Sugar,Breakfast,OUT003,Medium,Tier 1,Departmental Store
+13.32,0.03,160.84,2009,FD7801,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.83,0.056,122.78,2009,FD6781,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.13,0.15,210.3,1999,FD8458,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.99,0.112,114.51,2009,NC661,No Sugar,Others,OUT004,Medium,Tier 2,Supermarket Type2
+16.28,0.079,166.18,1987,FD6359,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+10.5,0.027,105.15,1998,FD4074,Low Sugar,Breads,OUT002,Small,Tier 3,Food Mart
+15.28,0.025,117.06,2009,NC2960,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.12,0.024,168.69,2009,FD2293,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+9.53,0.017,124.97,1998,FD2649,Regular,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+11.01,0.007,150.01,2009,NC5752,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.19,0.235,169.51,1999,FD6982,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+15.1,0.012,163.27,1999,FD5859,Regular,Dairy,OUT003,Medium,Tier 1,Departmental Store
+10.68,0.033,72.37,1987,FD193,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+13.66,0.018,195.78,1987,FD3178,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+10.45,0.019,141.04,2009,FD1296,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.3,0.064,112.68,2009,NC3861,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.58,0.052,136.64,2009,FD6709,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.58,0.051,90.16,2009,NC6308,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+15.96,0.08,176.87,1987,NC3527,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+12.59,0.058,126.91,2009,FD5312,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+11.61,0.127,113.3,2009,FD6461,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.51,0.132,155.12,2009,FD2105,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.96,0.01,132.21,2009,FD3932,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.6,0.178,194.87,1999,DR6479,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+14.21,0.112,176.33,1999,NC5088,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+13.83,0.044,181.91,1999,FD8054,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+10.78,0.128,170.3,2009,FD5328,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.61,0.059,112.22,2009,FD1891,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+12.31,0.125,190.94,1999,FD8194,Regular,Dairy,OUT003,Medium,Tier 1,Departmental Store
+11.29,0.096,144.37,2009,FD7575,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+16.26,0.025,188.82,1999,FD5734,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+15.0,0.056,157.07,1987,NC1905,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+13.07,0.059,162.75,2009,FD5503,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.58,0.081,155.59,1987,FD4598,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+9.69,0.027,51.9,1998,FD6089,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+11.32,0.04,170.2,2009,FD1076,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.58,0.039,221.72,1999,FD1171,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+10.22,0.175,136.32,2009,DR6024,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.91,0.106,130.02,2009,FD4536,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.97,0.024,139.41,2009,FD7724,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.38,0.056,129.89,2009,FD936,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.51,0.066,131.78,2009,FD6468,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+17.87,0.033,207.66,1999,DR1681,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+9.96,0.064,156.4,2009,FD6726,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.17,0.143,109.71,2009,DR5587,Regular,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+18.32,0.057,164.13,1999,FD6775,Low Sugar,Seafood,OUT003,Medium,Tier 1,Departmental Store
+12.95,0.057,148.26,2009,FD3284,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.45,0.142,123.7,2009,FD3526,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+17.03,0.021,141.13,1999,FD3953,Regular,Dairy,OUT003,Medium,Tier 1,Departmental Store
+9.64,0.057,110.49,1998,FD8747,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+10.76,0.126,152.18,2009,NC8022,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.16,0.044,169.39,1999,FD2900,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+13.8,0.081,139.15,2009,FD2948,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.23,0.034,174.74,1987,NC4617,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+8.72,0.132,137.37,1987,FD6282,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+11.58,0.045,117.86,2009,FD519,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.68,0.037,176.06,1987,FD3721,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+10.92,0.035,178.53,2009,NC1459,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+8.71,0.046,134.83,1987,FD6626,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+11.85,0.03,128.03,2009,DR5346,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+15.53,0.022,168.86,1987,FD1146,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+12.89,0.064,192.2,1999,FD38,Regular,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+13.9,0.035,168.12,1987,FD4032,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+13.39,0.071,96.03,2009,NC8511,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.95,0.036,126.09,2009,DR591,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+18.83,0.094,188.87,1999,FD4413,Regular,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+12.68,0.021,129.01,2009,FD7525,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.48,0.121,135.07,2009,FD6345,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.13,0.014,131.47,1999,FD68,Regular,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+9.91,0.038,68.04,1998,NC2079,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+11.78,0.047,153.89,2009,DR3291,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.61,0.052,142.08,2009,FD7467,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+15.58,0.052,182.11,1987,DR7481,reg,Hard Drinks,OUT001,High,Tier 2,Supermarket Type1
+14.67,0.095,123.96,2009,FD6111,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+10.61,0.196,154.17,2009,NC5237,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+16.42,0.052,159.07,1987,FD1189,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+14.29,0.086,173.39,1999,FD5115,Regular,Breads,OUT003,Medium,Tier 1,Departmental Store
+16.28,0.047,136.19,1987,FD3798,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+12.94,0.133,156.64,2009,FD4038,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.82,0.013,190.68,1987,DR5848,Low Sugar,Hard Drinks,OUT001,High,Tier 2,Supermarket Type1
+11.27,0.048,166.42,2009,FD1832,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.78,0.126,168.68,2009,NC8086,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+15.51,0.052,178.74,1987,FD2063,Regular,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+15.73,0.171,137.01,2009,FD8605,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.0,0.126,150.89,2009,FD2,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.2,0.061,110.7,1998,FD4926,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+9.33,0.056,136.9,1987,FD7371,Low Sugar,Breads,OUT001,High,Tier 2,Supermarket Type1
+14.51,0.038,148.51,2009,NC2696,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+18.13,0.168,175.09,1999,NC3594,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+14.52,0.029,152.44,2009,NC4725,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.96,0.071,102.52,2009,NC2411,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.75,0.086,139.62,2009,NC7923,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.28,0.071,127.34,2009,DR4986,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.44,0.088,121.42,2009,FD893,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.66,0.046,156.04,2009,FD3352,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.71,0.023,136.46,2009,FD4125,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.38,0.025,145.21,2009,FD7688,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+17.34,0.122,185.81,1999,NC6492,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+9.46,0.049,140.28,2009,NC7469,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.36,0.013,169.53,2009,FD3060,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.2,0.113,152.24,2009,FD491,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.85,0.104,216.4,1999,FD1872,Low Sugar,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+13.89,0.104,173.64,1999,FD1480,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+12.01,0.032,147.05,2009,FD1302,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+10.55,0.039,113.22,1998,FD5963,Regular,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+11.54,0.03,177.65,2009,FD4451,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.83,0.079,169.12,2009,FD2641,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.64,0.019,165.51,2009,FD7740,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+11.42,0.031,116.53,2009,NC7960,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+10.49,0.142,136.7,2009,FD7010,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+14.57,0.014,103.73,2009,FD7543,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+11.05,0.167,103.52,1998,NC4355,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+11.56,0.179,152.18,2009,DR5919,Low Sugar,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+7.16,0.025,118.89,1998,DR7861,Low Sugar,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+11.57,0.076,184.69,2009,FD1161,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.2,0.072,166.09,1987,FD3267,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+14.57,0.036,117.44,2009,DR8598,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.24,0.151,121.0,2009,FD1342,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.63,0.074,114.86,2009,FD6934,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.18,0.065,110.71,1998,FD7998,Regular,Canned,OUT002,Small,Tier 3,Food Mart
+14.9,0.083,152.82,1987,DR3521,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+12.66,0.035,128.72,2009,FD944,reg,Seafood,OUT004,Medium,Tier 2,Supermarket Type2
+12.21,0.045,182.01,1987,FD5939,Regular,Starchy Foods,OUT001,High,Tier 2,Supermarket Type1
+11.6,0.039,167.31,2009,FD2475,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.17,0.019,154.26,1987,DR2090,Regular,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+14.8,0.067,170.45,1999,FD5943,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+11.11,0.016,168.41,2009,FD3114,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+9.61,0.015,119.13,1998,FD5242,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+11.75,0.042,188.18,1999,NC356,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+12.79,0.129,158.23,2009,FD8621,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.18,0.12,103.29,1987,FD4681,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+12.68,0.034,121.0,2009,FD4357,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+13.84,0.024,125.06,2009,FD5527,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.38,0.112,164.34,2009,FD2728,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.38,0.151,130.51,2009,FD4358,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.68,0.168,115.47,2009,NC3356,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.49,0.01,109.57,1998,FD3986,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+11.7,0.108,127.24,2009,DR496,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+16.36,0.103,142.17,1987,FD3920,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+12.81,0.144,166.58,2009,FD7192,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+11.28,0.054,87.69,1998,DR6985,Regular,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+10.49,0.074,122.71,1987,FD3559,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+11.9,0.172,97.08,1998,FD6074,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+12.03,0.019,182.31,1987,NC8488,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+11.62,0.055,156.79,2009,FD1057,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.9,0.036,97.93,2009,FD8209,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+9.41,0.011,108.39,1998,FD4557,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+13.56,0.076,143.3,2009,FD4197,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+9.92,0.047,96.75,1987,FD141,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+10.94,0.16,138.26,2009,FD4569,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.23,0.228,154.62,2009,NC3354,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.61,0.039,165.19,2009,NC6060,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.76,0.128,132.95,2009,DR7855,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.61,0.045,154.08,2009,FD839,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.26,0.057,210.59,1999,FD7173,Regular,Dairy,OUT003,Medium,Tier 1,Departmental Store
+14.84,0.076,176.91,1987,FD5791,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+13.44,0.021,157.43,2009,FD951,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.09,0.011,140.59,2009,FD6885,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.07,0.053,159.7,1987,FD2561,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+11.2,0.083,117.24,2009,NC1457,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.47,0.083,122.24,2009,NC6601,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+15.27,0.024,181.18,1987,FD6069,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.59,0.091,145.79,2009,FD5746,reg,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.9,0.061,156.48,1999,NC361,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+12.19,0.026,106.44,2009,FD1138,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.28,0.026,154.38,2009,FD1059,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.85,0.074,136.43,2009,FD1835,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.33,0.035,168.63,2009,FD3217,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.06,0.058,131.64,2009,FD6356,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+11.95,0.122,155.01,2009,FD6185,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.01,0.122,138.08,2009,FD745,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.55,0.186,156.55,2009,FD6205,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.05,0.05,170.25,2009,FD8732,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.17,0.043,119.91,2009,FD8333,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.26,0.036,169.03,1999,FD934,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+14.87,0.154,151.9,1987,FD7249,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.39,0.064,124.5,2009,FD1901,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.02,0.022,119.78,1987,FD1386,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+10.92,0.295,157.14,2009,FD6279,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+10.78,0.037,144.32,2009,FD2824,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+13.9,0.039,175.35,1999,FD8666,Regular,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+13.89,0.044,151.6,2009,DR4704,Regular,Hard Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+13.24,0.121,169.93,1987,FD7215,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+16.62,0.017,179.67,1999,FD7613,Regular,Dairy,OUT003,Medium,Tier 1,Departmental Store
+15.03,0.035,147.59,1987,DR8447,Regular,Hard Drinks,OUT001,High,Tier 2,Supermarket Type1
+7.0,0.081,142.49,1998,FD3090,Low Sugar,Breads,OUT002,Small,Tier 3,Food Mart
+12.87,0.029,160.47,2009,FD634,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+17.45,0.036,156.65,1999,FD1519,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+12.31,0.012,137.8,2009,FD6724,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.62,0.096,117.65,1987,FD2939,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+13.19,0.048,145.62,2009,FD8274,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+15.4,0.027,204.46,1999,FD1340,Low Sugar,Canned,OUT003,Medium,Tier 1,Departmental Store
+13.08,0.049,116.28,2009,FD846,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+11.41,0.143,184.03,2009,FD163,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.8,0.154,161.76,1999,NC1971,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+13.15,0.012,167.99,2009,FD2884,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+16.56,0.091,173.26,1999,FD6714,Low Sugar,Starchy Foods,OUT003,Medium,Tier 1,Departmental Store
+13.08,0.085,150.7,2009,FD5031,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+15.34,0.029,188.03,1987,FD3413,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+15.72,0.067,175.09,1987,FD8189,Low Sugar,Starchy Foods,OUT001,High,Tier 2,Supermarket Type1
+12.48,0.076,179.08,1987,FD7161,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+11.86,0.123,111.41,2009,FD6283,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.39,0.097,147.12,2009,FD5801,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+7.03,0.172,99.01,1998,FD3784,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+14.44,0.027,184.72,1987,FD4739,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+13.61,0.097,108.82,2009,FD6983,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+17.74,0.019,201.59,1999,FD8218,Regular,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+13.36,0.116,165.89,2009,FD5822,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+14.17,0.038,125.58,2009,FD7950,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.47,0.096,145.6,2009,NC7715,No Sugar,Others,OUT004,Medium,Tier 2,Supermarket Type2
+10.32,0.009,165.42,2009,FD7840,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+7.73,0.025,116.23,1998,NC5733,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+8.34,0.069,124.99,1998,FD5482,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+15.93,0.102,202.92,1999,FD2792,reg,Seafood,OUT003,Medium,Tier 1,Departmental Store
+13.52,0.056,153.45,2009,FD4582,Regular,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+13.1,0.128,160.19,2009,FD1250,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.92,0.051,116.75,1987,FD8587,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+10.87,0.027,132.68,2009,FD8425,Regular,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+13.33,0.147,154.99,2009,DR8047,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.32,0.122,105.18,1998,DR2056,Low Sugar,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+8.95,0.059,116.97,1998,NC5883,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+9.83,0.124,157.1,2009,FD7697,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.06,0.01,67.3,1998,FD8416,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+12.13,0.034,100.6,1987,DR6690,Regular,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+18.19,0.01,175.59,1999,FD525,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+10.42,0.034,123.46,1987,NC6245,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+13.64,0.12,186.28,1999,FD1622,Low Sugar,Starchy Foods,OUT003,Medium,Tier 1,Departmental Store
+15.48,0.098,138.1,2009,FD7649,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.23,0.179,94.2,1998,NC5667,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+9.84,0.043,138.63,2009,FD6460,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.27,0.081,144.17,2009,FD6278,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+7.92,0.027,134.91,1998,FD8528,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+11.08,0.047,195.09,1987,FD6170,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+12.73,0.099,125.94,2009,FD7080,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.86,0.149,164.67,2009,FD7962,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.26,0.116,94.18,1998,FD6535,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+11.66,0.072,176.77,2009,FD3875,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+15.63,0.054,184.91,1998,FD194,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+12.76,0.029,168.21,2009,FD8200,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.05,0.079,113.29,2009,NC7238,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+9.88,0.026,131.72,2009,FD3829,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+11.69,0.068,101.83,1987,FD4771,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+12.42,0.016,136.13,2009,FD1270,Regular,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.71,0.026,119.95,2009,FD2443,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.23,0.031,157.0,2009,FD3562,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.37,0.068,230.34,1999,NC423,No Sugar,Others,OUT003,Medium,Tier 1,Departmental Store
+14.12,0.05,165.3,1987,FD4669,Low Sugar,Breads,OUT001,High,Tier 2,Supermarket Type1
+11.12,0.024,149.28,2009,FD3735,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.77,0.082,123.32,2009,DR294,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+7.86,0.064,90.25,1998,FD8281,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+13.49,0.043,165.5,1987,NC3682,No Sugar,Others,OUT001,High,Tier 2,Supermarket Type1
+16.02,0.07,156.21,1999,FD3337,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.94,0.08,167.52,2009,FD336,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.12,0.032,191.62,1987,FD5729,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+15.85,0.072,175.85,1998,FD299,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+14.87,0.077,154.58,1987,FD529,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+12.39,0.102,164.12,2009,DR6130,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+9.71,0.008,145.5,2009,NC5066,No Sugar,Others,OUT004,Medium,Tier 2,Supermarket Type2
+15.35,0.109,148.09,1987,FD7508,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+10.13,0.015,93.1,1998,FD1353,Low Sugar,Dairy,OUT002,Small,Tier 3,Food Mart
+14.03,0.016,157.94,2009,NC7171,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.38,0.026,145.27,2009,FD643,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+11.94,0.049,139.55,2009,FD2529,Regular,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.04,0.172,163.12,2009,FD5894,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.24,0.029,194.68,1999,FD4987,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+9.84,0.033,129.24,1987,FD8498,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+12.62,0.073,136.18,2009,FD5528,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.73,0.027,144.29,2009,FD597,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+12.54,0.032,158.7,2009,FD3707,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+14.68,0.041,144.79,2009,FD8249,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+9.0,0.061,126.52,1998,FD2351,Regular,Baking Goods,OUT002,Small,Tier 3,Food Mart
+13.43,0.027,170.69,1987,FD4646,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+13.81,0.122,134.94,2009,FD8640,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.64,0.093,165.84,1998,FD228,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+14.61,0.061,164.86,1999,DR7560,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+12.47,0.04,151.92,2009,FD7334,Regular,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+12.53,0.128,134.26,2009,FD4441,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.37,0.117,141.27,2009,FD3203,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+17.36,0.094,169.33,1999,FD5418,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+9.17,0.027,93.63,1998,FD969,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+15.98,0.015,152.25,1999,DR3701,Low Sugar,Hard Drinks,OUT003,Medium,Tier 1,Departmental Store
+14.43,0.068,164.13,1999,FD3294,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+9.53,0.015,90.11,1998,DR6199,Regular,Hard Drinks,OUT002,Small,Tier 3,Food Mart
+13.47,0.093,145.77,2009,FD6133,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.86,0.033,138.43,2009,FD5647,Regular,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+11.48,0.048,102.47,1998,FD2092,Low Sugar,Breads,OUT002,Small,Tier 3,Food Mart
+12.54,0.077,178.81,1987,FD5767,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+11.72,0.102,143.79,2009,FD3884,reg,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+17.37,0.033,173.52,1999,DR4668,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+16.84,0.099,211.79,1999,DR800,Low Sugar,Soft Drinks,OUT003,Medium,Tier 1,Departmental Store
+13.43,0.07,146.63,2009,FD5497,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+13.2,0.03,149.75,2009,FD5704,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.64,0.013,162.56,2009,NC8412,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+17.61,0.11,159.93,1999,FD8655,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+11.24,0.044,134.05,2009,FD178,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.84,0.104,168.07,1987,FD5384,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+11.03,0.07,84.04,1998,FD2260,Low Sugar,Breads,OUT002,Small,Tier 3,Food Mart
+11.76,0.151,116.27,2009,FD2261,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+12.77,0.095,138.01,2009,NC8165,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.74,0.072,166.59,1999,FD4821,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+13.69,0.06,138.98,2009,NC904,No Sugar,Others,OUT004,Medium,Tier 2,Supermarket Type2
+11.39,0.144,153.67,1999,FD126,Low Sugar,Meat,OUT003,Medium,Tier 1,Departmental Store
+12.28,0.126,180.88,1987,DR5721,Regular,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+12.34,0.168,156.47,2009,FD1753,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+13.84,0.039,174.45,1999,FD2051,Low Sugar,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+10.35,0.015,109.57,1998,DR2793,Low Sugar,Hard Drinks,OUT002,Small,Tier 3,Food Mart
+16.49,0.024,181.14,1999,NC6361,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+12.19,0.133,146.07,2009,FD4996,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.45,0.027,124.42,1987,NC7284,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+11.45,0.014,119.93,2009,NC2006,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+8.81,0.073,138.65,1987,DR7580,Regular,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+12.22,0.038,162.19,2009,FD7706,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.48,0.061,152.22,2009,NC7283,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+10.67,0.077,133.41,2009,FD6404,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+12.89,0.055,145.21,2009,FD1166,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.94,0.025,156.56,2009,DR349,Regular,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+11.86,0.043,138.12,2009,NC6758,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+11.39,0.09,148.97,2009,NC3863,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.3,0.084,153.77,2009,FD3666,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.59,0.068,105.51,1998,FD780,Low Sugar,Baking Goods,OUT002,Small,Tier 3,Food Mart
+13.13,0.076,203.58,1987,FD3781,Regular,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+12.34,0.103,133.52,2009,FD6366,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+10.3,0.082,97.08,1998,FD5663,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+12.53,0.153,138.85,2009,FD3243,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+8.93,0.023,118.25,1998,FD3705,Low Sugar,Canned,OUT002,Small,Tier 3,Food Mart
+9.72,0.047,139.61,2009,NC1491,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+8.71,0.042,132.48,1998,FD3950,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+10.83,0.174,111.45,1987,FD696,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+14.06,0.042,141.08,2009,NC1579,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+10.65,0.062,127.01,2009,FD2542,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.99,0.141,106.83,2009,NC1145,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+12.35,0.036,90.25,1998,NC5297,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+14.86,0.009,175.22,1987,FD894,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+20.27,0.021,222.71,1999,FD966,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+12.46,0.082,161.42,2009,FD1024,Low Sugar,Breakfast,OUT004,Medium,Tier 2,Supermarket Type2
+15.05,0.014,160.15,1999,NC1430,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+10.85,0.097,138.56,2009,FD7437,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.65,0.053,174.51,2009,DR4752,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+10.24,0.098,108.62,1998,DR3847,Low Sugar,Hard Drinks,OUT002,Small,Tier 3,Food Mart
+10.51,0.078,132.72,2009,FD4541,Regular,Breakfast,OUT004,Medium,Tier 2,Supermarket Type2
+12.49,0.006,142.64,2009,NC4548,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+11.91,0.098,160.78,2009,NC7754,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.43,0.082,150.27,2009,FD7772,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+11.82,0.104,81.45,1987,FD533,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+16.68,0.171,163.9,1987,FD26,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+10.23,0.142,140.42,2009,FD8129,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+15.01,0.178,187.3,1987,FD2042,Low Sugar,Breads,OUT001,High,Tier 2,Supermarket Type1
+13.22,0.008,174.99,1987,NC7853,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+15.04,0.065,159.1,1999,NC4127,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+15.29,0.024,177.0,1987,FD4084,Low Sugar,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+11.11,0.048,108.9,1987,FD1317,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+14.02,0.02,176.65,1999,NC6625,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+15.29,0.12,140.61,2009,FD2178,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.02,0.067,197.16,1987,FD4543,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+13.15,0.067,153.82,2009,FD3180,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+14.83,0.078,195.94,1987,NC6085,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+16.04,0.018,188.04,1999,FD6627,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+8.68,0.033,105.52,1998,FD15,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+12.79,0.174,162.29,2009,FD2872,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+9.61,0.074,129.04,1987,FD1683,Regular,Baking Goods,OUT001,High,Tier 2,Supermarket Type1
+14.16,0.017,197.89,1987,FD680,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+9.2,0.058,85.06,1998,NC6156,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+12.89,0.023,101.86,2009,FD5792,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.88,0.036,158.01,1998,NC155,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+10.77,0.091,131.52,2009,NC6395,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+10.31,0.036,118.2,1987,NC7278,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+13.21,0.071,156.85,2009,FD1165,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+9.41,0.013,121.78,1998,NC708,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+13.46,0.122,179.09,1999,FD7737,Regular,Dairy,OUT003,Medium,Tier 1,Departmental Store
+11.08,0.031,174.83,2009,FD5100,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.42,0.131,136.64,2009,FD6182,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+7.33,0.031,83.2,1998,NC4549,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+12.48,0.108,109.75,2009,FD4179,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.07,0.102,96.39,1998,FD20,Regular,Baking Goods,OUT002,Small,Tier 3,Food Mart
+12.62,0.107,194.64,1998,NC45,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+12.84,0.103,177.55,1987,FD3908,Regular,Breads,OUT001,High,Tier 2,Supermarket Type1
+12.04,0.064,129.1,2009,FD7402,Low Sugar,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+14.66,0.066,193.33,1999,FD381,Low Sugar,Seafood,OUT003,Medium,Tier 1,Departmental Store
+12.66,0.013,134.81,2009,FD1624,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.82,0.064,148.05,2009,FD2683,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.91,0.036,147.64,2009,FD3139,Low Sugar,Starchy Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.47,0.031,73.7,1998,FD7181,Regular,Starchy Foods,OUT002,Small,Tier 3,Food Mart
+11.91,0.174,101.32,1987,FD84,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+14.76,0.069,154.51,1987,FD5393,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+13.47,0.123,169.15,1987,FD1768,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+11.82,0.162,184.56,1987,FD7898,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+14.33,0.076,180.41,1987,FD1163,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+8.7,0.079,136.77,1987,FD4030,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+13.32,0.054,166.25,2009,FD3162,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+9.37,0.042,162.92,2009,FD3134,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.46,0.021,132.35,2009,NC8461,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+10.63,0.082,159.04,2009,FD863,Low Sugar,Breads,OUT004,Medium,Tier 2,Supermarket Type2
+14.86,0.054,156.97,1987,NC4137,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+11.85,0.034,165.75,2009,FD3011,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+6.65,0.068,116.13,1998,FD1866,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+14.4,0.138,172.66,1999,FD3899,Low Sugar,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+12.55,0.095,139.35,2009,FD5853,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+15.3,0.112,194.14,1999,FD3814,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+15.28,0.061,179.62,1987,NC1498,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+16.59,0.021,221.88,1999,FD1283,Low Sugar,Breads,OUT003,Medium,Tier 1,Departmental Store
+8.71,0.018,121.69,1998,FD495,Regular,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+9.08,0.012,137.71,1987,FD3321,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+13.19,0.053,196.63,1987,FD6450,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+10.87,0.105,106.74,1998,FD6190,Low Sugar,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+16.43,0.066,141.98,1999,FD7475,Low Sugar,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+12.29,0.044,120.74,2009,NC824,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+13.77,0.029,131.26,2009,FD1380,Low Sugar,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+8.53,0.026,104.58,1998,FD2895,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+15.38,0.096,110.93,2009,FD3310,reg,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.99,0.061,150.68,1987,FD1014,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+7.27,0.061,134.1,1998,DR8019,Low Sugar,Soft Drinks,OUT002,Small,Tier 3,Food Mart
+10.07,0.049,119.27,1987,FD4927,Regular,Breads,OUT001,High,Tier 2,Supermarket Type1
+9.77,0.013,115.44,1998,DR6600,Low Sugar,Hard Drinks,OUT002,Small,Tier 3,Food Mart
+11.36,0.069,165.22,2009,DR4064,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+14.25,0.014,166.64,1999,NC5849,No Sugar,Others,OUT003,Medium,Tier 1,Departmental Store
+9.16,0.023,112.78,1998,FD4192,Regular,Meat,OUT002,Small,Tier 3,Food Mart
+12.98,0.035,130.02,2009,FD4860,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+12.97,0.119,148.91,2009,FD1218,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.76,0.036,147.44,1987,FD6483,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+16.23,0.064,194.58,1999,FD3848,Regular,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+14.88,0.031,160.28,1999,FD8452,Low Sugar,Meat,OUT003,Medium,Tier 1,Departmental Store
+13.15,0.062,131.62,2009,FD8295,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+9.91,0.059,116.83,1998,NC3419,No Sugar,Health and Hygiene,OUT002,Small,Tier 3,Food Mart
+16.27,0.075,161.84,1987,FD6214,Regular,Meat,OUT001,High,Tier 2,Supermarket Type1
+13.34,0.042,159.57,2009,NC2536,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+9.49,0.084,89.21,1998,FD5965,Regular,Canned,OUT002,Small,Tier 3,Food Mart
+10.08,0.036,146.12,2009,FD4304,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+17.0,0.183,140.25,1999,FD1824,Regular,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+14.36,0.097,194.29,1987,DR7517,Regular,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+14.8,0.089,198.91,1999,FD366,Low Sugar,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+11.18,0.096,127.62,2009,NC3803,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+15.58,0.045,140.46,2009,NC5726,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.15,0.081,78.82,1998,FD3058,Low Sugar,Starchy Foods,OUT002,Small,Tier 3,Food Mart
+14.55,0.107,188.52,1999,FD585,Regular,Dairy,OUT003,Medium,Tier 1,Departmental Store
+13.46,0.15,169.06,1987,FD8270,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+14.92,0.171,152.48,1987,NC6042,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+11.07,0.04,97.88,1998,FD2199,Regular,Snack Foods,OUT002,Small,Tier 3,Food Mart
+12.96,0.064,136.19,2009,DR1769,Low Sugar,Soft Drinks,OUT004,Medium,Tier 2,Supermarket Type2
+12.9,0.087,176.86,1987,NC6540,No Sugar,Household,OUT001,High,Tier 2,Supermarket Type1
+12.08,0.034,131.77,2009,FD5525,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+11.26,0.065,90.04,1998,FD7047,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+14.91,0.08,157.23,1987,FD7221,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+10.57,0.121,134.5,2009,FD6792,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+13.34,0.058,108.9,2009,FD5357,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.3,0.06,161.21,1987,FD6142,Low Sugar,Canned,OUT001,High,Tier 2,Supermarket Type1
+14.28,0.019,150.42,2009,FD8243,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+12.64,0.099,96.05,1987,FD6127,Low Sugar,Starchy Foods,OUT001,High,Tier 2,Supermarket Type1
+15.26,0.026,184.76,1987,NC667,No Sugar,Health and Hygiene,OUT001,High,Tier 2,Supermarket Type1
+8.16,0.093,64.66,1998,NC1574,No Sugar,Household,OUT002,Small,Tier 3,Food Mart
+13.31,0.041,130.39,2009,FD5042,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+10.67,0.084,119.7,1987,FD7902,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+17.48,0.12,213.86,1999,DR4847,Low Sugar,Hard Drinks,OUT003,Medium,Tier 1,Departmental Store
+11.13,0.005,120.64,2009,NC3598,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+9.75,0.128,138.87,2009,FD7531,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+12.19,0.092,164.5,2009,FD5090,Low Sugar,Breakfast,OUT004,Medium,Tier 2,Supermarket Type2
+12.82,0.116,125.12,2009,NC6452,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.16,0.055,138.84,2009,FD3387,Low Sugar,Seafood,OUT004,Medium,Tier 2,Supermarket Type2
+9.73,0.031,175.81,2009,FD3532,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+9.86,0.116,95.57,1998,FD4980,Regular,Meat,OUT002,Small,Tier 3,Food Mart
+15.71,0.064,162.65,1999,FD905,Regular,Baking Goods,OUT003,Medium,Tier 1,Departmental Store
+14.14,0.041,170.73,1999,FD1974,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+11.25,0.041,153.72,2009,FD5446,Regular,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.83,0.022,187.71,1987,FD8211,Low Sugar,Meat,OUT001,High,Tier 2,Supermarket Type1
+11.76,0.053,136.29,2009,FD2259,Low Sugar,Fruits and Vegetables,OUT004,Medium,Tier 2,Supermarket Type2
+14.93,0.165,185.32,1987,FD2695,Low Sugar,Breads,OUT001,High,Tier 2,Supermarket Type1
+13.92,0.083,174.02,1999,FD6428,Regular,Meat,OUT003,Medium,Tier 1,Departmental Store
+12.56,0.018,150.88,2009,FD4846,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+14.21,0.038,173.12,1999,FD4949,Regular,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+16.94,0.138,220.44,1999,FD8589,Regular,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+15.62,0.036,168.9,1987,FD3935,Low Sugar,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+17.06,0.1,201.66,1987,FD232,Low Sugar,Snack Foods,OUT001,High,Tier 2,Supermarket Type1
+12.66,0.065,98.86,1987,DR2172,reg,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+9.5,0.033,118.06,1998,FD8248,Low Sugar,Snack Foods,OUT002,Small,Tier 3,Food Mart
+15.48,0.142,173.01,1987,FD5951,Regular,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+14.75,0.021,166.82,1999,NC1405,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+13.31,0.019,145.26,2009,FD6930,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+7.85,0.164,115.66,1999,FD427,Regular,Frozen Foods,OUT003,Medium,Tier 1,Departmental Store
+13.08,0.014,139.35,2009,FD2689,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+16.33,0.057,177.97,1999,FD6449,Regular,Snack Foods,OUT003,Medium,Tier 1,Departmental Store
+11.5,0.168,128.0,2009,FD6271,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.7,0.089,199.21,1987,FD7939,Low Sugar,Fruits and Vegetables,OUT001,High,Tier 2,Supermarket Type1
+12.49,0.292,131.49,2009,FD7944,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.69,0.093,161.36,2009,FD5314,Low Sugar,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+13.3,0.03,156.27,2009,FD3383,Regular,Canned,OUT004,Medium,Tier 2,Supermarket Type2
+17.02,0.076,224.36,1999,FD7273,Regular,Fruits and Vegetables,OUT003,Medium,Tier 1,Departmental Store
+10.15,0.052,137.92,2009,FD1415,Regular,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+8.91,0.063,118.37,1998,NC3408,No Sugar,Others,OUT002,Small,Tier 3,Food Mart
+12.21,0.075,151.2,2009,NC1327,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+7.36,0.011,130.79,1998,FD760,Low Sugar,Canned,OUT002,Small,Tier 3,Food Mart
+11.61,0.062,140.06,2009,FD6793,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+14.06,0.142,144.51,2009,NC584,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.44,0.038,151.68,2009,NC7837,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+12.65,0.094,132.79,2009,FD7389,Regular,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+15.33,0.032,146.32,1987,FD1490,Low Sugar,Dairy,OUT001,High,Tier 2,Supermarket Type1
+11.96,0.009,159.43,2009,FD1063,Regular,Baking Goods,OUT004,Medium,Tier 2,Supermarket Type2
+10.01,0.08,143.18,2009,NC917,No Sugar,Household,OUT004,Medium,Tier 2,Supermarket Type2
+14.09,0.036,207.15,1999,NC3150,No Sugar,Health and Hygiene,OUT003,Medium,Tier 1,Departmental Store
+9.01,0.22,135.19,1998,FD246,Low Sugar,Meat,OUT002,Small,Tier 3,Food Mart
+16.9,0.054,204.06,1999,NC34,No Sugar,Household,OUT003,Medium,Tier 1,Departmental Store
+12.64,0.015,163.81,2009,NC1708,No Sugar,Health and Hygiene,OUT004,Medium,Tier 2,Supermarket Type2
+14.47,0.03,114.68,2009,FD2003,Low Sugar,Snack Foods,OUT004,Medium,Tier 2,Supermarket Type2
+13.23,0.07,175.17,1987,FD7345,Regular,Frozen Foods,OUT001,High,Tier 2,Supermarket Type1
+15.11,0.01,208.36,1999,FD1017,Low Sugar,Dairy,OUT003,Medium,Tier 1,Departmental Store
+16.84,0.096,159.09,1998,FD247,Regular,Frozen Foods,OUT002,Small,Tier 3,Food Mart
+14.04,0.127,134.97,2009,FD6549,Regular,Meat,OUT004,Medium,Tier 2,Supermarket Type2
+14.07,0.074,155.36,2009,FD1150,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+15.28,0.027,123.04,2009,FD3900,Low Sugar,Frozen Foods,OUT004,Medium,Tier 2,Supermarket Type2
+10.54,0.076,113.56,1998,FD3739,Low Sugar,Fruits and Vegetables,OUT002,Small,Tier 3,Food Mart
+13.96,0.026,168.46,1987,DR5934,Low Sugar,Soft Drinks,OUT001,High,Tier 2,Supermarket Type1
+12.07,0.107,118.99,2009,FD1776,Low Sugar,Dairy,OUT004,Medium,Tier 2,Supermarket Type2
+15.26,0.031,170.72,1987,FD4336,Regular,Canned,OUT001,High,Tier 2,Supermarket Type1
